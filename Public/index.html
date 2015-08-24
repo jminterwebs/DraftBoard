@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<html lang="" >
+<html lang="" ng-app="DraftBoard" >
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/bootstrap.css"/>
 
-    <link rel="stylesheet" href="styles/style.css"/>
 
     <title></title>
 </head>
+    <body>
 
-<body >
+<div ng-controller="DraftlistController">
+    <ul ng-repeat="list in playerlist">
 
-    <div ng-view></div>
+        <li>Rank: {{list.Rank}} Pos: {{list.Position}} Team: {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+
+    </ul>
+
+</div>
+
 
 
     <!-- VENDOR -->
@@ -21,10 +29,15 @@
     <script src="javascript/vendor/jquery-2.1.4.js"></script>
 
     <!-- APPS -->
+    <script src="javascript/app.js"></script>
 
     <!-- Service -->
+    <script src="javascript/services/board.js"></script>
 
     <!-- Controllers -->
+    <script src="javascript/controller/DraftlistController.js"></script>
+
+
 
 </body>
 </html>

@@ -1,13 +1,13 @@
-angular.module('Cityapp').config(function($routeProvider){
+angular.module('DraftBoard').config(function($routeProvider){
  $routeProvider
     .when('/', {
-        templateUrl: "/templates/city/index.html",
-        controller: "CityCreateController"
+        templateUrl: "/templates/list.html",
+        controller: "DraftlistController"
 
  })
-    .when('/city/:city', {
-        templateUrl: "/templates/city/city.html",
-        controller: "CityShowController"
+    .when('/:team', {
+        templateUrl: "/templates/teams/team.html",
+        controller: "TeamShowController"
  });
 
 });

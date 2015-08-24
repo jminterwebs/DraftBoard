@@ -1,1 +1,1 @@
-angular.module('Cityapp', ['ngRoute', 'ngResource']);
+angular.module('DraftBoard', ['ngRoute', 'ngResource']);
