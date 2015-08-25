@@ -13,14 +13,16 @@
 
    <div class="selection">
 
-       <h1>Player:{{player.First}} {{player.Last}}  </h1>
+       <h1>Player: {{player.First}} {{player.Last}}  </h1>
        <h1>Pos: {{player.Position}}</h1>
-       <h1>Team:{{player.Team}}</h1>
-       <h1>Bye:{{player.Bye}}</h1>
+       <h1>Team: {{player.Team}}</h1>
+       <h1>Bye: {{player.Bye}} <span class="draftbtn"> Draft!</span> </h1>
+draftbtn
 
    </div>
 
    <div class="roundInfo">
+       <h1><span id="time"></span></h1>
    </div>
 
 
@@ -53,6 +55,9 @@
 
     <!-- Controllers -->
     <script src="javascript/controller/DraftlistController.js"></script>
+
+    <!-- JQUERY -->
+    <script src="javascript/jQuery/timer.js"></script>
 
 
 
