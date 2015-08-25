@@ -1,7 +1,6 @@
 angular.module('DraftBoard').controller('DraftlistController', function(Draft, $scope, $http, $routeParams, $location){
 
 
-
     $scope.playerlist = [
   {
     "Rank":1,
@@ -2796,4 +2795,13 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Bye":8
   }
 ];
+
+    $scope.PlayerSelected = function($event, player){
+
+    console.log($scope.player);
+    $scope.player = player.list;
+
+    };
+
+
 });

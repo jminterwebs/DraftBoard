@@ -1,0 +1,28 @@
+ul
+{
+    list-style-type: none;
+    padding-left: 15px;
+
+
+}
+
+li{
+ margin-bottom: 8px;
+}
+
+
+.selection{
+width: 45%;
+height: 250px;
+background: GREEN;
+float: left;
+
+}
+
+.roundInfo{
+    float: right;
+    width: 55%;
+    height: 250px;
+    background: Blue;
+
+}

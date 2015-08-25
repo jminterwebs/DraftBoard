@@ -4,16 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/bootstrap.css"/>
+    <link rel="stylesheet" href="styles/style.css"/>
 
 
     <title></title>
 </head>
-    <body>
+    <body ng-controller="DraftlistController">
 
-<div ng-controller="DraftlistController">
-    <ul ng-repeat="list in playerlist">
+   <div class="selection">
 
-        <li>Rank: {{list.Rank}} Pos: {{list.Position}} Team: {{list.Team}}</br>
+       <h1>Player:{{player.First}} {{player.Last}}  </h1>
+       <h1>Pos: {{player.Position}}</h1>
+       <h1>Team:{{player.Team}}</h1>
+       <h1>Bye:{{player.Bye}}</h1>
+
+   </div>
+
+   <div class="roundInfo">
+   </div>
+
+
+
+<div>
+    <input  type="text">
+
+    <ul>
+
+        <li ng-repeat="list in playerlist" ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 
     </ul>
