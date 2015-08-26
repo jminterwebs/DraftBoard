@@ -2803,7 +2803,10 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
 
     };
 
-
+    $scope.nameSearch = {
+        name: '',
+        position: 'All'
+    };
 
 
 
