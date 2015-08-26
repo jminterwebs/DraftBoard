@@ -29,8 +29,8 @@
 
 <div class="selectionlist">
     <form class="form-inline search-width">
-    <input class="search form-control" type="text" ng-model="nameSearch.name">
-    <select class="form-control" ng-model="nameSearch.position">
+    <input class="search form-control" type="text" ng-model="nameSearch">
+    <select class="form-control" ng-model="nameSearch.Position">
         <option value="All">All</option>
         <option value="QB">QB</option>
         <option value="RB">RB</option>
@@ -43,7 +43,7 @@
     </form>
     <ul class="list">
 
-        <li ng-repeat="list in playerlist | filter:nameSearch.name | filter: nameSearch.name  "
+        <li ng-repeat="list in playerlist | filter:nameSearch"
             ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 
