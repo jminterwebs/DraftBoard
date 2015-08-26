@@ -16,8 +16,8 @@
        <h1>Player: {{player.First}} {{player.Last}}  </h1>
        <h1>Pos: {{player.Position}}</h1>
        <h1>Team: {{player.Team}}</h1>
-       <h1>Bye: {{player.Bye}} <span class="draftbtn"> Draft!</span> </h1>
-draftbtn
+       <h1>Bye: {{player.Bye}} <span class="draftbtn btn btn-success btn-lg"> Draft!</span> </h1>
+
 
    </div>
 
@@ -27,10 +27,20 @@ draftbtn
 
 
 
-<div>
-    <input  type="text">
-
-    <ul>
+<div class="selectionlist">
+    <form class="form-inline search-width">
+    <input class="search form-control"  type="text">
+    <select class="form-control">
+        <option>All</option>
+        <option>QB</option>
+        <option>RB</option>
+        <option>WR</option>
+        <option>TE</option>
+        <option>DEF</option>
+        <option>K</option>
+    </select>
+    </form>
+    <ul class="list">
 
         <li ng-repeat="list in playerlist" ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
@@ -39,6 +49,19 @@ draftbtn
 
 </div>
 
+
+        <div class="drafted">
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+            <div class="col-team"></div>
+    </div>
 
 
     <!-- VENDOR -->

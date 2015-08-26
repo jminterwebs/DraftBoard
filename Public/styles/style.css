@@ -1,10 +1,30 @@
 ul
 {
     list-style-type: none;
-    padding-left: 15px;
-    width: 14%;
+    padding-left: 10px;
+    background-color: bisque;
+    overflow: auto;
+    height: 750px;
 
 }
+
+.selectionlist {
+   background-color: red;
+   padding: 0px;
+   margin-left: 0px;
+   width: 12%;
+   float: left;
+   height: 820px;
+
+
+}
+.drafted{
+    background-color: darkgray;
+    width: 88%;
+    height: 820px;
+    float: left;
+}
+
 
 li{
  margin-bottom: 8px;
@@ -31,5 +51,6 @@ float: left;
 }
 
 .draftbtn {
-    padding-left: 60%;
+
+    margin-left: 60%;
 }
