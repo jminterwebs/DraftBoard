@@ -29,20 +29,22 @@
 
 <div class="selectionlist">
     <form class="form-inline search-width">
-    <input class="search form-control"  type="text">
-    <select class="form-control">
-        <option>All</option>
-        <option>QB</option>
-        <option>RB</option>
-        <option>WR</option>
-        <option>TE</option>
-        <option>DEF</option>
-        <option>K</option>
+    <input class="search form-control" type="text" ng-model="nameSearch.name">
+    <select class="form-control" ng-model="nameSearch.position">
+        <option value="All">All</option>
+        <option value="QB">QB</option>
+        <option value="RB">RB</option>
+        <option value="WR">WR</option>
+        <option value="TE">TE</option>
+        <option value="DEF">DEF</option>
+        <option value="K">K</option>
     </select>
+        {{nameSearch.position}}
     </form>
     <ul class="list">
 
-        <li ng-repeat="list in playerlist" ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+        <li ng-repeat="list in playerlist | filter:nameSearch.name | filter: nameSearch.name  "
+            ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 
     </ul>
@@ -78,9 +80,13 @@
 
     <!-- Controllers -->
     <script src="javascript/controller/DraftlistController.js"></script>
+    <!-- Filters -->
+    <script src="javascript/filters/playerSearch.js"></script>
+
 
     <!-- JQUERY -->
     <script src="javascript/jQuery/timer.js"></script>
+
 
 
 
