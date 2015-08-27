@@ -11,6 +11,7 @@ var Schema = mongoose.Schema;
       Rank:       Number,
       DraftedRound:      Number,
       DraftedPick:       Number,
-      DraftedTeamName:   String
+      DraftedTeamName:   String,
+      DraftedTeamPosition: Number
 
   });

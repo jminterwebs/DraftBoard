@@ -16,7 +16,7 @@
        <h1>Player: {{player.First}} {{player.Last}}  </h1>
        <h1>Pos: {{player.Position}}</h1>
        <h1>Team: {{player.Team}}</h1>
-       <h1>Bye: {{player.Bye}} <span class="draftbtn btn btn-success btn-lg"> Draft!</span> </h1>
+       <h1>Bye: {{player.Bye}} <span class="draftbtn btn btn-success btn-lg" ng-click="selectPlayer(this)"> Draft!</span> </h1>
 
 
    </div>
@@ -53,7 +53,12 @@
 
 
         <div class="drafted">
-            <div class="col-team"></div>
+            <div class="col-team">
+               <ul>
+
+        <li >Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
             <div class="col-team"></div>
             <div class="col-team"></div>
             <div class="col-team"></div>
