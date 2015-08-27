@@ -8,7 +8,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bell",
     "Position":"RB",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":2,
@@ -16,7 +17,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Charles",
     "Position":"RB",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":3,
@@ -24,7 +26,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Peterson",
     "Position":"RB",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":4,
@@ -32,7 +35,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brown",
     "Position":"WR",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":5,
@@ -40,7 +44,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Lacy",
     "Position":"RB",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":6,
@@ -48,7 +53,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jones",
     "Position":"WR",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":7,
@@ -56,7 +62,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Thomas",
     "Position":"WR",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":8,
@@ -64,7 +71,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gronkowski",
     "Position":"TE",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":9,
@@ -72,7 +80,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bryant",
     "Position":"WR",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":10,
@@ -80,7 +89,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Beckham Jr.",
     "Position":"WR",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":11,
@@ -88,7 +98,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Forte",
     "Position":"RB",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":12,
@@ -96,7 +107,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Anderson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":13,
@@ -104,7 +116,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Lynch",
     "Position":"RB",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":14,
@@ -112,7 +125,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"WR",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":15,
@@ -120,7 +134,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Green",
     "Position":"WR",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":16,
@@ -128,7 +143,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cobb",
     "Position":"WR",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":17,
@@ -136,7 +152,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Forsett",
     "Position":"RB",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":18,
@@ -144,7 +161,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Murray",
     "Position":"RB",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":19,
@@ -152,7 +170,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jeffery",
     "Position":"WR",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":20,
@@ -160,7 +179,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hill",
     "Position":"RB",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":21,
@@ -168,7 +188,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Evans",
     "Position":"WR",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":22,
@@ -176,7 +197,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"McCoy",
     "Position":"RB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":23,
@@ -184,7 +206,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hilton",
     "Position":"WR",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":24,
@@ -192,7 +215,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Miller",
     "Position":"RB",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":25,
@@ -200,7 +224,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hopkins",
     "Position":"WR",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":26,
@@ -208,7 +233,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Luck",
     "Position":"QB",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":27,
@@ -216,7 +242,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cooks",
     "Position":"WR",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":28,
@@ -224,7 +251,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rodgers",
     "Position":"QB",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":29,
@@ -232,7 +260,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gore",
     "Position":"RB",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":30,
@@ -240,7 +269,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sanders",
     "Position":"WR",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":31,
@@ -248,7 +278,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Matthews",
     "Position":"WR",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":32,
@@ -256,7 +287,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ingram",
     "Position":"RB",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":33,
@@ -264,7 +296,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ellington",
     "Position":"RB",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":34,
@@ -272,7 +305,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Edelman",
     "Position":"WR",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":35,
@@ -280,7 +314,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Spiller",
     "Position":"RB",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":36,
@@ -288,7 +323,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"WR",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":37,
@@ -296,7 +332,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gordon",
     "Position":"RB",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":38,
@@ -304,7 +341,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Morris",
     "Position":"RB",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":39,
@@ -312,7 +350,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Allen",
     "Position":"WR",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":40,
@@ -320,7 +359,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Stewart",
     "Position":"RB",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":41,
@@ -328,7 +368,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Murray",
     "Position":"RB",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":42,
@@ -336,7 +377,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Graham",
     "Position":"TE",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":43,
@@ -344,7 +386,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Marshall",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":44,
@@ -352,7 +395,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Tate",
     "Position":"WR",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":45,
@@ -360,7 +404,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cooper",
     "Position":"WR",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":46,
@@ -368,7 +413,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wilson",
     "Position":"QB",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":47,
@@ -376,7 +422,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Abdullah",
     "Position":"RB",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":48,
@@ -384,7 +431,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Olsen",
     "Position":"TE",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":49,
@@ -392,7 +440,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Robinson",
     "Position":"WR",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":50,
@@ -400,7 +449,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Randle",
     "Position":"RB",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":51,
@@ -408,7 +458,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Yeldon",
     "Position":"RB",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":52,
@@ -416,7 +467,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Kelce",
     "Position":"TE",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":53,
@@ -424,7 +476,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Manning",
     "Position":"QB",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":54,
@@ -432,7 +485,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hyde",
     "Position":"RB",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":55,
@@ -440,7 +494,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Landry",
     "Position":"WR",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":56,
@@ -448,7 +503,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Maclin",
     "Position":"WR",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":57,
@@ -456,7 +512,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bernard",
     "Position":"RB",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":58,
@@ -464,7 +521,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brees",
     "Position":"QB",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":59,
@@ -472,7 +530,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Watkins",
     "Position":"WR",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":60,
@@ -480,7 +539,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Roethlisberger",
     "Position":"QB",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":61,
@@ -488,7 +548,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jackson",
     "Position":"WR",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":62,
@@ -496,7 +557,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jackson",
     "Position":"WR",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":63,
@@ -504,7 +566,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gurley",
     "Position":"RB",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":64,
@@ -512,7 +575,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"White",
     "Position":"WR",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":65,
@@ -520,7 +584,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bennett",
     "Position":"TE",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":66,
@@ -528,7 +593,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Fitzgerald",
     "Position":"WR",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":67,
@@ -536,7 +602,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Decker",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":68,
@@ -544,7 +611,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ryan",
     "Position":"QB",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":69,
@@ -552,7 +620,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Blount",
     "Position":"RB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":70,
@@ -560,7 +629,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"WR",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":71,
@@ -568,7 +638,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Boldin",
     "Position":"WR",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":72,
@@ -576,7 +647,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"LaFell",
     "Position":"WR",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":73,
@@ -584,7 +656,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Romo",
     "Position":"QB",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":74,
@@ -592,7 +665,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ivory",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":75,
@@ -600,7 +674,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Vereen",
     "Position":"RB",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":76,
@@ -608,7 +683,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jennings",
     "Position":"RB",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":77,
@@ -616,7 +692,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Martin",
     "Position":"RB",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":78,
@@ -624,7 +701,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bryant",
     "Position":"WR",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":79,
@@ -632,7 +710,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bell",
     "Position":"RB",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":80,
@@ -640,7 +719,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Newton",
     "Position":"QB",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":81,
@@ -648,7 +728,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wallace",
     "Position":"WR",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":82,
@@ -656,7 +737,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Freeman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":83,
@@ -664,7 +746,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Garcon",
     "Position":"WR",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":84,
@@ -672,7 +755,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":85,
@@ -680,7 +764,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Adams",
     "Position":"WR",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":86,
@@ -688,7 +773,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Manning",
     "Position":"QB",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":87,
@@ -696,7 +782,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Witten",
     "Position":"TE",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":88,
@@ -704,7 +791,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cameron",
     "Position":"TE",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":89,
@@ -712,7 +800,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brown",
     "Position":"WR",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":90,
@@ -720,7 +809,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wright",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":91,
@@ -728,7 +818,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Tannehill",
     "Position":"QB",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":92,
@@ -736,7 +827,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Walker",
     "Position":"TE",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":93,
@@ -744,7 +836,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Coleman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":94,
@@ -752,7 +845,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Agholor",
     "Position":"WR",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":95,
@@ -760,7 +854,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Colston",
     "Position":"WR",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":96,
@@ -768,7 +863,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Crowell",
     "Position":"RB",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":97,
@@ -776,7 +872,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Thomas",
     "Position":"TE",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":98,
@@ -784,7 +881,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Stafford",
     "Position":"QB",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":99,
@@ -792,7 +890,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"WR",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":100,
@@ -800,7 +899,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Woodhead",
     "Position":"RB",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":101,
@@ -808,7 +908,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Foster",
     "Position":"RB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":102,
@@ -816,7 +917,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bush",
     "Position":"RB",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":103,
@@ -824,7 +926,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ertz",
     "Position":"TE",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":104,
@@ -832,7 +935,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rivers",
     "Position":"QB",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":105,
@@ -840,7 +944,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cruz",
     "Position":"WR",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":106,
@@ -848,7 +953,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brady",
     "Position":"QB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":107,
@@ -856,7 +962,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"RB",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":108,
@@ -864,7 +971,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Eifert",
     "Position":"TE",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":109,
@@ -872,7 +980,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sankey",
     "Position":"RB",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":110,
@@ -880,7 +989,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Royal",
     "Position":"WR",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":111,
@@ -888,7 +998,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Mathews",
     "Position":"RB",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":112,
@@ -896,7 +1007,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Mason",
     "Position":"RB",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":113,
@@ -904,7 +1016,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Floyd",
     "Position":"WR",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":114,
@@ -912,7 +1025,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Nelson",
     "Position":"WR",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":115,
@@ -920,7 +1034,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Funchess",
     "Position":"WR",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":116,
@@ -928,7 +1043,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rudolph",
     "Position":"TE",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":117,
@@ -936,7 +1052,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Miller",
     "Position":"TE",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":118,
@@ -944,7 +1061,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Helu",
     "Position":"RB",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":119,
@@ -952,7 +1070,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Donnell",
     "Position":"TE",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":120,
@@ -960,7 +1079,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Seferian-Jenkins",
     "Position":"TE",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":121,
@@ -968,7 +1088,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sims",
     "Position":"RB",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":122,
@@ -976,7 +1097,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Daniels",
     "Position":"TE",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":123,
@@ -984,7 +1106,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Perriman",
     "Position":"WR",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":124,
@@ -992,7 +1115,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Allen",
     "Position":"TE",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":125,
@@ -1000,7 +1124,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"WR",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":126,
@@ -1008,7 +1133,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Seahawks",
     "Position":"DS",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":127,
@@ -1016,7 +1142,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gates",
     "Position":"TE",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":128,
@@ -1024,7 +1151,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cobb",
     "Position":"RB",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":129,
@@ -1032,7 +1160,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bradford",
     "Position":"QB",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":130,
@@ -1040,7 +1169,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sproles",
     "Position":"RB",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":131,
@@ -1048,7 +1178,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Quick",
     "Position":"WR",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":132,
@@ -1056,7 +1187,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Randle",
     "Position":"WR",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":133,
@@ -1064,7 +1196,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Blue",
     "Position":"RB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":134,
@@ -1072,7 +1205,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Kaepernick",
     "Position":"QB",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":135,
@@ -1080,7 +1214,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":136,
@@ -1088,7 +1223,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bridgewater",
     "Position":"QB",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":137,
@@ -1096,7 +1232,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Reed",
     "Position":"TE",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":138,
@@ -1104,7 +1241,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Clay",
     "Position":"TE",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":139,
@@ -1112,7 +1250,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bills",
     "Position":"DS",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":140,
@@ -1120,7 +1259,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Crabtree",
     "Position":"WR",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":141,
@@ -1128,7 +1268,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hill",
     "Position":"TE",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":142,
@@ -1136,7 +1277,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Stills",
     "Position":"WR",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":143,
@@ -1144,7 +1286,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rams",
     "Position":"DS",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":144,
@@ -1152,7 +1295,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"McFadden",
     "Position":"RB",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":145,
@@ -1160,7 +1304,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Texans",
     "Position":"DS",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":146,
@@ -1168,7 +1313,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Parker",
     "Position":"WR",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":147,
@@ -1176,7 +1322,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Davis",
     "Position":"TE",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":148,
@@ -1184,7 +1331,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"WR",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":149,
@@ -1192,7 +1340,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Flacco",
     "Position":"QB",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":150,
@@ -1200,7 +1349,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Davis",
     "Position":"RB",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":151,
@@ -1208,7 +1358,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Palmer",
     "Position":"QB",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":152,
@@ -1216,7 +1367,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jackson",
     "Position":"RB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":153,
@@ -1224,7 +1376,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bowe",
     "Position":"WR",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":154,
@@ -1232,7 +1385,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jones",
     "Position":"WR",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":155,
@@ -1240,7 +1394,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Fleener",
     "Position":"TE",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":156,
@@ -1248,7 +1403,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Green",
     "Position":"TE",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":157,
@@ -1256,7 +1412,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Baldwin",
     "Position":"WR",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":158,
@@ -1264,7 +1421,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Harvin",
     "Position":"WR",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":159,
@@ -1272,7 +1430,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ebron",
     "Position":"TE",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":160,
@@ -1280,7 +1439,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cutler",
     "Position":"QB",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":161,
@@ -1288,7 +1448,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cardinals",
     "Position":"DS",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":162,
@@ -1296,7 +1457,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"McKinnon",
     "Position":"RB",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":163,
@@ -1304,7 +1466,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wheaton",
     "Position":"WR",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":164,
@@ -1312,7 +1475,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ajayi",
     "Position":"RB",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":165,
@@ -1320,7 +1484,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dalton",
     "Position":"QB",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":166,
@@ -1328,7 +1493,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cook",
     "Position":"TE",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":167,
@@ -1336,7 +1502,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"RB",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":168,
@@ -1344,7 +1511,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jones",
     "Position":"RB",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":169,
@@ -1352,7 +1520,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Robinson",
     "Position":"RB",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":170,
@@ -1360,7 +1529,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"White",
     "Position":"RB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":171,
@@ -1368,7 +1538,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Broncos",
     "Position":"DS",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":172,
@@ -1376,7 +1547,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dunbar",
     "Position":"RB",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":173,
@@ -1384,7 +1556,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Latimer",
     "Position":"WR",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":174,
@@ -1392,7 +1565,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"West",
     "Position":"RB",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":175,
@@ -1400,7 +1574,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Patriots",
     "Position":"DS",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":176,
@@ -1408,7 +1583,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Amaro",
     "Position":"TE",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":177,
@@ -1416,7 +1592,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Floyd",
     "Position":"WR",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":178,
@@ -1424,7 +1601,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rivera",
     "Position":"TE",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":179,
@@ -1432,7 +1610,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Coleman",
     "Position":"WR",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":180,
@@ -1440,7 +1619,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ball",
     "Position":"RB",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":181,
@@ -1448,7 +1628,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Polk",
     "Position":"RB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":182,
@@ -1456,7 +1637,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Herron",
     "Position":"RB",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":183,
@@ -1464,7 +1646,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Shorts",
     "Position":"WR",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":184,
@@ -1472,7 +1655,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Panthers",
     "Position":"DS",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":185,
@@ -1480,7 +1664,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Riddick",
     "Position":"RB",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":186,
@@ -1488,7 +1673,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Britt",
     "Position":"WR",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":187,
@@ -1496,7 +1682,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"White",
     "Position":"WR",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":188,
@@ -1504,7 +1691,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Winston",
     "Position":"QB",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":189,
@@ -1512,7 +1700,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hawkins",
     "Position":"WR",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":190,
@@ -1520,7 +1709,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gray",
     "Position":"RB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":191,
@@ -1528,7 +1718,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Green-Beckham",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":192,
@@ -1536,7 +1727,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Allen",
     "Position":"RB",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":193,
@@ -1544,7 +1736,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Mariota",
     "Position":"QB",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":194,
@@ -1552,7 +1745,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"RB",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":195,
@@ -1560,7 +1754,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Robinson",
     "Position":"RB",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":196,
@@ -1568,7 +1763,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dolphins",
     "Position":"DS",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":197,
@@ -1576,7 +1772,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Moncrief",
     "Position":"WR",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":198,
@@ -1584,7 +1781,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hurns",
     "Position":"WR",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":199,
@@ -1592,7 +1790,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rodgers",
     "Position":"TE",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":200,
@@ -1600,7 +1799,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Griffin III",
     "Position":"QB",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":201,
@@ -1608,7 +1808,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jets",
     "Position":"DS",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":202,
@@ -1616,7 +1817,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"QB",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":203,
@@ -1624,7 +1826,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dorsett",
     "Position":"WR",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":204,
@@ -1632,7 +1835,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"TE",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":205,
@@ -1640,7 +1844,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Taliaferro",
     "Position":"RB",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":206,
@@ -1648,7 +1853,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ravens",
     "Position":"DS",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":207,
@@ -1656,7 +1862,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Packers",
     "Position":"DS",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":208,
@@ -1664,7 +1871,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bailey",
     "Position":"WR",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":209,
@@ -1672,7 +1880,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Artis-Payne",
     "Position":"RB",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":210,
@@ -1680,7 +1889,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Housler",
     "Position":"TE",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":211,
@@ -1688,7 +1898,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Carr",
     "Position":"QB",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":212,
@@ -1696,7 +1907,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Lee",
     "Position":"WR",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":213,
@@ -1704,7 +1916,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wilson",
     "Position":"WR",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":214,
@@ -1712,7 +1925,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Watson",
     "Position":"TE",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":215,
@@ -1720,7 +1934,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Beasley",
     "Position":"WR",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":216,
@@ -1728,7 +1943,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Janis",
     "Position":"WR",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":217,
@@ -1736,7 +1952,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Starks",
     "Position":"RB",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":218,
@@ -1744,7 +1961,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Powell",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":219,
@@ -1752,7 +1970,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hillman",
     "Position":"RB",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":220,
@@ -1760,7 +1979,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bengals",
     "Position":"DS",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":221,
@@ -1768,7 +1988,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Amendola",
     "Position":"WR",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":222,
@@ -1776,7 +1997,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ridley",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":223,
@@ -1784,7 +2006,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bortles",
     "Position":"QB",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":224,
@@ -1792,7 +2015,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Toon",
     "Position":"WR",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":225,
@@ -1800,7 +2024,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Green",
     "Position":"TE",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":226,
@@ -1808,7 +2033,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Tamme",
     "Position":"TE",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":227,
@@ -1816,7 +2042,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Strong",
     "Position":"WR",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":228,
@@ -1824,7 +2051,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cotchery",
     "Position":"WR",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":229,
@@ -1832,7 +2060,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hartline",
     "Position":"WR",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":230,
@@ -1840,7 +2069,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Fitzpatrick",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":231,
@@ -1848,7 +2078,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Foles",
     "Position":"QB",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":232,
@@ -1856,7 +2087,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Chiefs",
     "Position":"DS",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":233,
@@ -1864,7 +2096,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Douglas",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":234,
@@ -1872,7 +2105,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Woods",
     "Position":"WR",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":235,
@@ -1880,7 +2114,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Richardson",
     "Position":"RB",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":236,
@@ -1888,7 +2123,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Aiken",
     "Position":"WR",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":237,
@@ -1896,7 +2132,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jennings",
     "Position":"WR",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":238,
@@ -1904,7 +2141,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Lions",
     "Position":"DS",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":239,
@@ -1912,7 +2150,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Eagles",
     "Position":"DS",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":240,
@@ -1920,7 +2159,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Oliver",
     "Position":"RB",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":241,
@@ -1928,7 +2168,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brown",
     "Position":"WR",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":242,
@@ -1936,7 +2177,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"RB",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":243,
@@ -1944,7 +2186,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sanu",
     "Position":"WR",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":244,
@@ -1952,7 +2195,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"RB",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":245,
@@ -1960,7 +2204,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Huff",
     "Position":"WR",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":246,
@@ -1968,7 +2213,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cunningham",
     "Position":"RB",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":247,
@@ -1976,7 +2222,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gostkowski",
     "Position":"K1",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":248,
@@ -1984,7 +2231,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Thompson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":249,
@@ -1992,7 +2240,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wilson",
     "Position":"WR",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":250,
@@ -2000,7 +2249,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Lockett",
     "Position":"WR",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":251,
@@ -2008,7 +2258,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"49ers",
     "Position":"DS",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":252,
@@ -2016,7 +2267,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":253,
@@ -2024,7 +2276,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wright",
     "Position":"WR",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":254,
@@ -2032,7 +2285,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gerhart",
     "Position":"RB",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":255,
@@ -2040,7 +2294,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Vinatieri",
     "Position":"K2",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":256,
@@ -2048,7 +2303,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cassel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":257,
@@ -2056,7 +2312,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Nicks",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":258,
@@ -2064,7 +2321,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"McCown",
     "Position":"QB",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":259,
@@ -2072,7 +2330,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Manziel",
     "Position":"QB",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":260,
@@ -2080,7 +2339,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hauschka",
     "Position":"K3",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":261,
@@ -2088,7 +2348,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sanchez",
     "Position":"QB",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":262,
@@ -2096,7 +2357,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Manuel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":263,
@@ -2104,7 +2366,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Thomas",
     "Position":"RB",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":264,
@@ -2112,7 +2375,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Grimes",
     "Position":"RB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":265,
@@ -2120,7 +2384,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Crosby",
     "Position":"K4",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":266,
@@ -2128,7 +2393,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bolden",
     "Position":"RB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":267,
@@ -2136,7 +2402,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Parkey",
     "Position":"K5",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":268,
@@ -2144,7 +2411,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Barth",
     "Position":"K6",
     "Team":"DEN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":269,
@@ -2152,7 +2420,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Tucker",
     "Position":"K7",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":270,
@@ -2160,7 +2429,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hoyer",
     "Position":"QB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":271,
@@ -2168,7 +2438,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bailey",
     "Position":"K8",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":272,
@@ -2176,7 +2447,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hankerson",
     "Position":"WR",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":273,
@@ -2184,7 +2456,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Montgomery",
     "Position":"WR",
     "Team":"GB",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":274,
@@ -2192,7 +2465,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hunter",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":275,
@@ -2200,7 +2474,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"McCluster",
     "Position":"WR",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":276,
@@ -2208,7 +2483,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bryant",
     "Position":"K9",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":277,
@@ -2216,7 +2492,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Walford",
     "Position":"TE",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":278,
@@ -2224,7 +2501,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Walsh",
     "Position":"K1",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":279,
@@ -2232,7 +2510,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Kearse",
     "Position":"WR",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":280,
@@ -2240,7 +2519,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Streater",
     "Position":"WR",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":281,
@@ -2248,7 +2528,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Vikings",
     "Position":"DS",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":282,
@@ -2256,7 +2537,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Fells",
     "Position":"TE",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":283,
@@ -2264,7 +2546,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Washington",
     "Position":"WR",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":284,
@@ -2272,7 +2555,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":285,
@@ -2280,7 +2564,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Graham",
     "Position":"TE",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":286,
@@ -2288,7 +2573,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cadet",
     "Position":"RB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":287,
@@ -2296,7 +2582,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Colts",
     "Position":"DS",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":288,
@@ -2304,7 +2591,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Asiata",
     "Position":"RB",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":289,
@@ -2312,7 +2600,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gabriel",
     "Position":"WR",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":290,
@@ -2320,7 +2609,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Patterson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":291,
@@ -2328,7 +2618,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Thomas",
     "Position":"RB",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":292,
@@ -2336,7 +2627,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Chandler",
     "Position":"TE",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":293,
@@ -2344,7 +2636,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Robinson",
     "Position":"RB",
     "Team":"IND",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":294,
@@ -2352,7 +2645,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Stacy",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":295,
@@ -2360,7 +2654,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Austin",
     "Position":"WR",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":296,
@@ -2368,7 +2663,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Kerley",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":297,
@@ -2376,7 +2672,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Browns",
     "Position":"DS",
     "Team":"CLE",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":298,
@@ -2384,7 +2681,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dobson",
     "Position":"WR",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":299,
@@ -2392,7 +2690,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Williams",
     "Position":"RB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":300,
@@ -2400,7 +2699,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dickson",
     "Position":"TE",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":301,
@@ -2408,7 +2708,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Steelers",
     "Position":"DS",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":302,
@@ -2416,7 +2717,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cowboys",
     "Position":"DS",
     "Team":"DAL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":303,
@@ -2424,7 +2726,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Giants",
     "Position":"DS",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":304,
@@ -2432,7 +2735,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Chargers",
     "Position":"DS",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":305,
@@ -2440,7 +2744,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Jaguars",
     "Position":"DS",
     "Team":"JAC",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":306,
@@ -2448,7 +2753,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Buccaneers",
     "Position":"DS",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":307,
@@ -2456,7 +2762,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Titans",
     "Position":"DS",
     "Team":"TEN",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":308,
@@ -2464,7 +2771,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Smith",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":309,
@@ -2472,7 +2780,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Falcons",
     "Position":"DS",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":310,
@@ -2480,7 +2789,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bears",
     "Position":"DS",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":311,
@@ -2488,7 +2798,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Conley",
     "Position":"WR",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":312,
@@ -2496,7 +2807,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Kendricks",
     "Position":"TE",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":313,
@@ -2504,7 +2816,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Roberts",
     "Position":"WR",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":314,
@@ -2512,7 +2825,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cooper",
     "Position":"WR",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":315,
@@ -2520,7 +2834,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Celek",
     "Position":"TE",
     "Team":"PHI",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":316,
@@ -2528,7 +2843,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Wright",
     "Position":"TE",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":317,
@@ -2536,7 +2852,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hartley",
     "Position":"K1",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":318,
@@ -2544,7 +2861,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Prater",
     "Position":"K1",
     "Team":"DET",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":319,
@@ -2552,7 +2870,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Catanzaro",
     "Position":"K1",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":320,
@@ -2560,7 +2879,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Novak",
     "Position":"K1",
     "Team":"SD",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":321,
@@ -2568,7 +2888,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Taylor",
     "Position":"QB",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":322,
@@ -2576,7 +2897,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Dawson",
     "Position":"K1",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":323,
@@ -2584,7 +2906,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Carpenter",
     "Position":"K1",
     "Team":"BUF",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":324,
@@ -2592,7 +2915,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Sturgis",
     "Position":"K1",
     "Team":"MIA",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":325,
@@ -2600,7 +2924,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hopkins",
     "Position":"K1",
     "Team":"NO",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":326,
@@ -2608,7 +2933,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gresham",
     "Position":"TE",
     "Team":"ARI",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":327,
@@ -2616,7 +2942,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gano",
     "Position":"K1",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":328,
@@ -2624,7 +2951,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Michael",
     "Position":"RB",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":329,
@@ -2632,7 +2960,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Bullock",
     "Position":"K2",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":330,
@@ -2640,7 +2969,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Brown",
     "Position":"K2",
     "Team":"NYG",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":331,
@@ -2648,7 +2978,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Holmes",
     "Position":"WR",
     "Team":"OAK",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":332,
@@ -2656,7 +2987,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Nugent",
     "Position":"K2",
     "Team":"CIN",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":333,
@@ -2664,7 +2996,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Zuerlein",
     "Position":"K2",
     "Team":"STL",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":334,
@@ -2672,7 +3005,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Santos",
     "Position":"K2",
     "Team":"KC",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":335,
@@ -2680,7 +3014,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rodgers",
     "Position":"RB",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":336,
@@ -2688,7 +3023,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Ginn",
     "Position":"WR",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":337,
@@ -2696,7 +3032,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Gillmore",
     "Position":"TE",
     "Team":"BAL",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":338,
@@ -2704,7 +3041,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Mallett",
     "Position":"QB",
     "Team":"HOU",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":339,
@@ -2712,7 +3050,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Langford",
     "Position":"RB",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":340,
@@ -2720,7 +3059,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Carey",
     "Position":"RB",
     "Team":"CHI",
-    "Bye":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":341,
@@ -2728,7 +3068,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Coates",
     "Position":"WR",
     "Team":"PIT",
-    "Bye":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":342,
@@ -2736,7 +3077,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Turbin",
     "Position":"RB",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":343,
@@ -2744,7 +3086,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Hardy",
     "Position":"WR",
     "Team":"ATL",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":344,
@@ -2752,7 +3095,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Davis",
     "Position":"RB",
     "Team":"SF",
-    "Bye":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":345,
@@ -2760,7 +3104,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Garoppolo",
     "Position":"QB",
     "Team":"NE",
-    "Bye":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":346,
@@ -2768,7 +3113,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Tolbert",
     "Position":"RB",
     "Team":"CAR",
-    "Bye":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":347,
@@ -2776,7 +3122,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Matthews",
     "Position":"WR",
     "Team":"SEA",
-    "Bye":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":348,
@@ -2784,7 +3131,8 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Rainey",
     "Position":"RB",
     "Team":"TB",
-    "Bye":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":349,
@@ -2792,9 +3140,10 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
     "Last":"Cousins",
     "Position":"QB",
     "Team":"WAS",
-    "Bye":8
+    "Bye Week":8,
+    "DraftedPick":0
   }
-];
+]
 
     $scope.PlayerSelected = function($event, player){
 
@@ -2841,7 +3190,7 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
       var value = $scope.playerlist.indexOf($scope.player);
 
       //remove from draft list
-      $scope.playerlist.splice(value, 1);
+      //$scope.playerlist.splice(value, 1);
 
 
         //increment the pick

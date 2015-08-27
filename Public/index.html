@@ -43,7 +43,7 @@
     </form>
     <ul class="list">
 
-        <li ng-repeat="list in playerlist | playersFilter:nameSearch"
+        <li ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0}"
             ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 

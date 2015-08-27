@@ -1,9 +1,12 @@
 angular.module('DraftBoard').filter('playersFilter', function () {
     return function (input, filterObject) {
+
         if (filterObject == undefined) { return input; }
 
         var searchName = filterObject.name.toLowerCase();
         var searchPosition = filterObject.position.toLowerCase();
+
+
         var out = [];
         if (input != undefined) {
             for (var i = 0; i < input.length; i++) {
@@ -24,3 +27,7 @@ angular.module('DraftBoard').filter('playersFilter', function () {
         return out;
     };
 });
+
+
+// Setup the filter
+
