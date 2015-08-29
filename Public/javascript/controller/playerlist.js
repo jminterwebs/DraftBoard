@@ -1,11 +1,12 @@
-playerRank = [
+[
   {
     "Rank":1,
     "First":"Le'Veon",
     "Last":"Bell",
     "Position":"RB",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":2,
@@ -13,7 +14,8 @@ playerRank = [
     "Last":"Charles",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":3,
@@ -21,7 +23,8 @@ playerRank = [
     "Last":"Peterson",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":4,
@@ -29,7 +32,8 @@ playerRank = [
     "Last":"Brown",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":5,
@@ -37,7 +41,8 @@ playerRank = [
     "Last":"Lacy",
     "Position":"RB",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":6,
@@ -45,7 +50,8 @@ playerRank = [
     "Last":"Jones",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":7,
@@ -53,7 +59,8 @@ playerRank = [
     "Last":"Thomas",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":8,
@@ -61,7 +68,8 @@ playerRank = [
     "Last":"Gronkowski",
     "Position":"TE",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":9,
@@ -69,7 +77,8 @@ playerRank = [
     "Last":"Bryant",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":10,
@@ -77,7 +86,8 @@ playerRank = [
     "Last":"Beckham Jr.",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":11,
@@ -85,7 +95,8 @@ playerRank = [
     "Last":"Forte",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":12,
@@ -93,7 +104,8 @@ playerRank = [
     "Last":"Anderson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":13,
@@ -101,7 +113,8 @@ playerRank = [
     "Last":"Lynch",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":14,
@@ -109,7 +122,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"WR",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":15,
@@ -117,7 +131,8 @@ playerRank = [
     "Last":"Green",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":16,
@@ -125,7 +140,8 @@ playerRank = [
     "Last":"Cobb",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":17,
@@ -133,7 +149,8 @@ playerRank = [
     "Last":"Forsett",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":18,
@@ -141,7 +158,8 @@ playerRank = [
     "Last":"Murray",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":19,
@@ -149,7 +167,8 @@ playerRank = [
     "Last":"Jeffery",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":20,
@@ -157,7 +176,8 @@ playerRank = [
     "Last":"Hill",
     "Position":"RB",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":21,
@@ -165,7 +185,8 @@ playerRank = [
     "Last":"Evans",
     "Position":"WR",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":22,
@@ -173,7 +194,8 @@ playerRank = [
     "Last":"McCoy",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":23,
@@ -181,7 +203,8 @@ playerRank = [
     "Last":"Hilton",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":24,
@@ -189,7 +212,8 @@ playerRank = [
     "Last":"Miller",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":25,
@@ -197,7 +221,8 @@ playerRank = [
     "Last":"Hopkins",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":26,
@@ -205,7 +230,8 @@ playerRank = [
     "Last":"Luck",
     "Position":"QB",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":27,
@@ -213,7 +239,8 @@ playerRank = [
     "Last":"Cooks",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":28,
@@ -221,7 +248,8 @@ playerRank = [
     "Last":"Rodgers",
     "Position":"QB",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":29,
@@ -229,7 +257,8 @@ playerRank = [
     "Last":"Gore",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":30,
@@ -237,7 +266,8 @@ playerRank = [
     "Last":"Sanders",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":31,
@@ -245,7 +275,8 @@ playerRank = [
     "Last":"Matthews",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":32,
@@ -253,7 +284,8 @@ playerRank = [
     "Last":"Ingram",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":33,
@@ -261,7 +293,8 @@ playerRank = [
     "Last":"Ellington",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":34,
@@ -269,7 +302,8 @@ playerRank = [
     "Last":"Edelman",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":35,
@@ -277,7 +311,8 @@ playerRank = [
     "Last":"Spiller",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":36,
@@ -285,7 +320,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":37,
@@ -293,7 +329,8 @@ playerRank = [
     "Last":"Gordon",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":38,
@@ -301,7 +338,8 @@ playerRank = [
     "Last":"Morris",
     "Position":"RB",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":39,
@@ -309,7 +347,8 @@ playerRank = [
     "Last":"Allen",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":40,
@@ -317,7 +356,8 @@ playerRank = [
     "Last":"Stewart",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":41,
@@ -325,7 +365,8 @@ playerRank = [
     "Last":"Murray",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":42,
@@ -333,7 +374,8 @@ playerRank = [
     "Last":"Graham",
     "Position":"TE",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":43,
@@ -341,7 +383,8 @@ playerRank = [
     "Last":"Marshall",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":44,
@@ -349,7 +392,8 @@ playerRank = [
     "Last":"Tate",
     "Position":"WR",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":45,
@@ -357,7 +401,8 @@ playerRank = [
     "Last":"Cooper",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":46,
@@ -365,7 +410,8 @@ playerRank = [
     "Last":"Wilson",
     "Position":"QB",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":47,
@@ -373,7 +419,8 @@ playerRank = [
     "Last":"Abdullah",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":48,
@@ -381,7 +428,8 @@ playerRank = [
     "Last":"Olsen",
     "Position":"TE",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":49,
@@ -389,7 +437,8 @@ playerRank = [
     "Last":"Robinson",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":50,
@@ -397,7 +446,8 @@ playerRank = [
     "Last":"Randle",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":51,
@@ -405,7 +455,8 @@ playerRank = [
     "Last":"Yeldon",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":52,
@@ -413,7 +464,8 @@ playerRank = [
     "Last":"Kelce",
     "Position":"TE",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":53,
@@ -421,7 +473,8 @@ playerRank = [
     "Last":"Manning",
     "Position":"QB",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":54,
@@ -429,7 +482,8 @@ playerRank = [
     "Last":"Hyde",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":55,
@@ -437,7 +491,8 @@ playerRank = [
     "Last":"Landry",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":56,
@@ -445,7 +500,8 @@ playerRank = [
     "Last":"Maclin",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":57,
@@ -453,7 +509,8 @@ playerRank = [
     "Last":"Bernard",
     "Position":"RB",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":58,
@@ -461,7 +518,8 @@ playerRank = [
     "Last":"Brees",
     "Position":"QB",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":59,
@@ -469,7 +527,8 @@ playerRank = [
     "Last":"Watkins",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":60,
@@ -477,7 +536,8 @@ playerRank = [
     "Last":"Roethlisberger",
     "Position":"QB",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":61,
@@ -485,7 +545,8 @@ playerRank = [
     "Last":"Jackson",
     "Position":"WR",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":62,
@@ -493,7 +554,8 @@ playerRank = [
     "Last":"Jackson",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":63,
@@ -501,7 +563,8 @@ playerRank = [
     "Last":"Gurley",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":64,
@@ -509,7 +572,8 @@ playerRank = [
     "Last":"White",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":65,
@@ -517,7 +581,8 @@ playerRank = [
     "Last":"Bennett",
     "Position":"TE",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":66,
@@ -525,7 +590,8 @@ playerRank = [
     "Last":"Fitzgerald",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":67,
@@ -533,7 +599,8 @@ playerRank = [
     "Last":"Decker",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":68,
@@ -541,7 +608,8 @@ playerRank = [
     "Last":"Ryan",
     "Position":"QB",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":69,
@@ -549,7 +617,8 @@ playerRank = [
     "Last":"Blount",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":70,
@@ -557,7 +626,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":71,
@@ -565,7 +635,8 @@ playerRank = [
     "Last":"Boldin",
     "Position":"WR",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":72,
@@ -573,7 +644,8 @@ playerRank = [
     "Last":"LaFell",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":73,
@@ -581,7 +653,8 @@ playerRank = [
     "Last":"Romo",
     "Position":"QB",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":74,
@@ -589,7 +662,8 @@ playerRank = [
     "Last":"Ivory",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":75,
@@ -597,7 +671,8 @@ playerRank = [
     "Last":"Vereen",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":76,
@@ -605,7 +680,8 @@ playerRank = [
     "Last":"Jennings",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":77,
@@ -613,7 +689,8 @@ playerRank = [
     "Last":"Martin",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":78,
@@ -621,7 +698,8 @@ playerRank = [
     "Last":"Bryant",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":79,
@@ -629,7 +707,8 @@ playerRank = [
     "Last":"Bell",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":80,
@@ -637,7 +716,8 @@ playerRank = [
     "Last":"Newton",
     "Position":"QB",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":81,
@@ -645,7 +725,8 @@ playerRank = [
     "Last":"Wallace",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":82,
@@ -653,7 +734,8 @@ playerRank = [
     "Last":"Freeman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":83,
@@ -661,7 +743,8 @@ playerRank = [
     "Last":"Garcon",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":84,
@@ -669,7 +752,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":85,
@@ -677,7 +761,8 @@ playerRank = [
     "Last":"Adams",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":86,
@@ -685,7 +770,8 @@ playerRank = [
     "Last":"Manning",
     "Position":"QB",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":87,
@@ -693,7 +779,8 @@ playerRank = [
     "Last":"Witten",
     "Position":"TE",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":88,
@@ -701,7 +788,8 @@ playerRank = [
     "Last":"Cameron",
     "Position":"TE",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":89,
@@ -709,7 +797,8 @@ playerRank = [
     "Last":"Brown",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":90,
@@ -717,7 +806,8 @@ playerRank = [
     "Last":"Wright",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":91,
@@ -725,7 +815,8 @@ playerRank = [
     "Last":"Tannehill",
     "Position":"QB",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":92,
@@ -733,7 +824,8 @@ playerRank = [
     "Last":"Walker",
     "Position":"TE",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":93,
@@ -741,7 +833,8 @@ playerRank = [
     "Last":"Coleman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":94,
@@ -749,7 +842,8 @@ playerRank = [
     "Last":"Agholor",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":95,
@@ -757,7 +851,8 @@ playerRank = [
     "Last":"Colston",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":96,
@@ -765,7 +860,8 @@ playerRank = [
     "Last":"Crowell",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":97,
@@ -773,7 +869,8 @@ playerRank = [
     "Last":"Thomas",
     "Position":"TE",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":98,
@@ -781,7 +878,8 @@ playerRank = [
     "Last":"Stafford",
     "Position":"QB",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":99,
@@ -789,7 +887,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"WR",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":100,
@@ -797,7 +896,8 @@ playerRank = [
     "Last":"Woodhead",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":101,
@@ -805,7 +905,8 @@ playerRank = [
     "Last":"Foster",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":102,
@@ -813,7 +914,8 @@ playerRank = [
     "Last":"Bush",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":103,
@@ -821,7 +923,8 @@ playerRank = [
     "Last":"Ertz",
     "Position":"TE",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":104,
@@ -829,7 +932,8 @@ playerRank = [
     "Last":"Rivers",
     "Position":"QB",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":105,
@@ -837,7 +941,8 @@ playerRank = [
     "Last":"Cruz",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":106,
@@ -845,7 +950,8 @@ playerRank = [
     "Last":"Brady",
     "Position":"QB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":107,
@@ -853,7 +959,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":108,
@@ -861,7 +968,8 @@ playerRank = [
     "Last":"Eifert",
     "Position":"TE",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":109,
@@ -869,7 +977,8 @@ playerRank = [
     "Last":"Sankey",
     "Position":"RB",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":110,
@@ -877,7 +986,8 @@ playerRank = [
     "Last":"Royal",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":111,
@@ -885,7 +995,8 @@ playerRank = [
     "Last":"Mathews",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":112,
@@ -893,7 +1004,8 @@ playerRank = [
     "Last":"Mason",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":113,
@@ -901,7 +1013,8 @@ playerRank = [
     "Last":"Floyd",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":114,
@@ -909,7 +1022,8 @@ playerRank = [
     "Last":"Nelson",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":115,
@@ -917,7 +1031,8 @@ playerRank = [
     "Last":"Funchess",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":116,
@@ -925,7 +1040,8 @@ playerRank = [
     "Last":"Rudolph",
     "Position":"TE",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":117,
@@ -933,7 +1049,8 @@ playerRank = [
     "Last":"Miller",
     "Position":"TE",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":118,
@@ -941,7 +1058,8 @@ playerRank = [
     "Last":"Helu",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":119,
@@ -949,7 +1067,8 @@ playerRank = [
     "Last":"Donnell",
     "Position":"TE",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":120,
@@ -957,7 +1076,8 @@ playerRank = [
     "Last":"Seferian-Jenkins",
     "Position":"TE",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":121,
@@ -965,7 +1085,8 @@ playerRank = [
     "Last":"Sims",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":122,
@@ -973,7 +1094,8 @@ playerRank = [
     "Last":"Daniels",
     "Position":"TE",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":123,
@@ -981,7 +1103,8 @@ playerRank = [
     "Last":"Perriman",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":124,
@@ -989,7 +1112,8 @@ playerRank = [
     "Last":"Allen",
     "Position":"TE",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":125,
@@ -997,7 +1121,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":126,
@@ -1005,7 +1130,8 @@ playerRank = [
     "Last":"Seahawks",
     "Position":"DS",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":127,
@@ -1013,7 +1139,8 @@ playerRank = [
     "Last":"Gates",
     "Position":"TE",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":128,
@@ -1021,7 +1148,8 @@ playerRank = [
     "Last":"Cobb",
     "Position":"RB",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":129,
@@ -1029,7 +1157,8 @@ playerRank = [
     "Last":"Bradford",
     "Position":"QB",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":130,
@@ -1037,7 +1166,8 @@ playerRank = [
     "Last":"Sproles",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":131,
@@ -1045,7 +1175,8 @@ playerRank = [
     "Last":"Quick",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":132,
@@ -1053,7 +1184,8 @@ playerRank = [
     "Last":"Randle",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":133,
@@ -1061,7 +1193,8 @@ playerRank = [
     "Last":"Blue",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":134,
@@ -1069,7 +1202,8 @@ playerRank = [
     "Last":"Kaepernick",
     "Position":"QB",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":135,
@@ -1077,7 +1211,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":136,
@@ -1085,7 +1220,8 @@ playerRank = [
     "Last":"Bridgewater",
     "Position":"QB",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":137,
@@ -1093,7 +1229,8 @@ playerRank = [
     "Last":"Reed",
     "Position":"TE",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":138,
@@ -1101,7 +1238,8 @@ playerRank = [
     "Last":"Clay",
     "Position":"TE",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":139,
@@ -1109,7 +1247,8 @@ playerRank = [
     "Last":"Bills",
     "Position":"DS",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":140,
@@ -1117,7 +1256,8 @@ playerRank = [
     "Last":"Crabtree",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":141,
@@ -1125,7 +1265,8 @@ playerRank = [
     "Last":"Hill",
     "Position":"TE",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":142,
@@ -1133,7 +1274,8 @@ playerRank = [
     "Last":"Stills",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":143,
@@ -1141,7 +1283,8 @@ playerRank = [
     "Last":"Rams",
     "Position":"DS",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":144,
@@ -1149,7 +1292,8 @@ playerRank = [
     "Last":"McFadden",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":145,
@@ -1157,7 +1301,8 @@ playerRank = [
     "Last":"Texans",
     "Position":"DS",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":146,
@@ -1165,7 +1310,8 @@ playerRank = [
     "Last":"Parker",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":147,
@@ -1173,7 +1319,8 @@ playerRank = [
     "Last":"Davis",
     "Position":"TE",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":148,
@@ -1181,7 +1328,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":149,
@@ -1189,7 +1337,8 @@ playerRank = [
     "Last":"Flacco",
     "Position":"QB",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":150,
@@ -1197,7 +1346,8 @@ playerRank = [
     "Last":"Davis",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":151,
@@ -1205,7 +1355,8 @@ playerRank = [
     "Last":"Palmer",
     "Position":"QB",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":152,
@@ -1213,7 +1364,8 @@ playerRank = [
     "Last":"Jackson",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":153,
@@ -1221,7 +1373,8 @@ playerRank = [
     "Last":"Bowe",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":154,
@@ -1229,7 +1382,8 @@ playerRank = [
     "Last":"Jones",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":155,
@@ -1237,7 +1391,8 @@ playerRank = [
     "Last":"Fleener",
     "Position":"TE",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":156,
@@ -1245,7 +1400,8 @@ playerRank = [
     "Last":"Green",
     "Position":"TE",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":157,
@@ -1253,7 +1409,8 @@ playerRank = [
     "Last":"Baldwin",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":158,
@@ -1261,7 +1418,8 @@ playerRank = [
     "Last":"Harvin",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":159,
@@ -1269,7 +1427,8 @@ playerRank = [
     "Last":"Ebron",
     "Position":"TE",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":160,
@@ -1277,7 +1436,8 @@ playerRank = [
     "Last":"Cutler",
     "Position":"QB",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":161,
@@ -1285,7 +1445,8 @@ playerRank = [
     "Last":"Cardinals",
     "Position":"DS",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":162,
@@ -1293,7 +1454,8 @@ playerRank = [
     "Last":"McKinnon",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":163,
@@ -1301,7 +1463,8 @@ playerRank = [
     "Last":"Wheaton",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":164,
@@ -1309,7 +1472,8 @@ playerRank = [
     "Last":"Ajayi",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":165,
@@ -1317,7 +1481,8 @@ playerRank = [
     "Last":"Dalton",
     "Position":"QB",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":166,
@@ -1325,7 +1490,8 @@ playerRank = [
     "Last":"Cook",
     "Position":"TE",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":167,
@@ -1333,7 +1499,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":168,
@@ -1341,7 +1508,8 @@ playerRank = [
     "Last":"Jones",
     "Position":"RB",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":169,
@@ -1349,7 +1517,8 @@ playerRank = [
     "Last":"Robinson",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":170,
@@ -1357,7 +1526,8 @@ playerRank = [
     "Last":"White",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":171,
@@ -1365,7 +1535,8 @@ playerRank = [
     "Last":"Broncos",
     "Position":"DS",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":172,
@@ -1373,7 +1544,8 @@ playerRank = [
     "Last":"Dunbar",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":173,
@@ -1381,7 +1553,8 @@ playerRank = [
     "Last":"Latimer",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":174,
@@ -1389,7 +1562,8 @@ playerRank = [
     "Last":"West",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":175,
@@ -1397,7 +1571,8 @@ playerRank = [
     "Last":"Patriots",
     "Position":"DS",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":176,
@@ -1405,7 +1580,8 @@ playerRank = [
     "Last":"Amaro",
     "Position":"TE",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":177,
@@ -1413,7 +1589,8 @@ playerRank = [
     "Last":"Floyd",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":178,
@@ -1421,7 +1598,8 @@ playerRank = [
     "Last":"Rivera",
     "Position":"TE",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":179,
@@ -1429,7 +1607,8 @@ playerRank = [
     "Last":"Coleman",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":180,
@@ -1437,7 +1616,8 @@ playerRank = [
     "Last":"Ball",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":181,
@@ -1445,7 +1625,8 @@ playerRank = [
     "Last":"Polk",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":182,
@@ -1453,7 +1634,8 @@ playerRank = [
     "Last":"Herron",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":183,
@@ -1461,7 +1643,8 @@ playerRank = [
     "Last":"Shorts",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":184,
@@ -1469,7 +1652,8 @@ playerRank = [
     "Last":"Panthers",
     "Position":"DS",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":185,
@@ -1477,7 +1661,8 @@ playerRank = [
     "Last":"Riddick",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":186,
@@ -1485,7 +1670,8 @@ playerRank = [
     "Last":"Britt",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":187,
@@ -1493,7 +1679,8 @@ playerRank = [
     "Last":"White",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":188,
@@ -1501,7 +1688,8 @@ playerRank = [
     "Last":"Winston",
     "Position":"QB",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":189,
@@ -1509,7 +1697,8 @@ playerRank = [
     "Last":"Hawkins",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":190,
@@ -1517,7 +1706,8 @@ playerRank = [
     "Last":"Gray",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":191,
@@ -1525,7 +1715,8 @@ playerRank = [
     "Last":"Green-Beckham",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":192,
@@ -1533,7 +1724,8 @@ playerRank = [
     "Last":"Allen",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":193,
@@ -1541,7 +1733,8 @@ playerRank = [
     "Last":"Mariota",
     "Position":"QB",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":194,
@@ -1549,7 +1742,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"RB",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":195,
@@ -1557,7 +1751,8 @@ playerRank = [
     "Last":"Robinson",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":196,
@@ -1565,7 +1760,8 @@ playerRank = [
     "Last":"Dolphins",
     "Position":"DS",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":197,
@@ -1573,7 +1769,8 @@ playerRank = [
     "Last":"Moncrief",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":198,
@@ -1581,7 +1778,8 @@ playerRank = [
     "Last":"Hurns",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":199,
@@ -1589,7 +1787,8 @@ playerRank = [
     "Last":"Rodgers",
     "Position":"TE",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":200,
@@ -1597,7 +1796,8 @@ playerRank = [
     "Last":"Griffin III",
     "Position":"QB",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":201,
@@ -1605,7 +1805,8 @@ playerRank = [
     "Last":"Jets",
     "Position":"DS",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":202,
@@ -1613,7 +1814,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"QB",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":203,
@@ -1621,7 +1823,8 @@ playerRank = [
     "Last":"Dorsett",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":204,
@@ -1629,7 +1832,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"TE",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":205,
@@ -1637,7 +1841,8 @@ playerRank = [
     "Last":"Taliaferro",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":206,
@@ -1645,7 +1850,8 @@ playerRank = [
     "Last":"Ravens",
     "Position":"DS",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":207,
@@ -1653,7 +1859,8 @@ playerRank = [
     "Last":"Packers",
     "Position":"DS",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":208,
@@ -1661,7 +1868,8 @@ playerRank = [
     "Last":"Bailey",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":209,
@@ -1669,7 +1877,8 @@ playerRank = [
     "Last":"Artis-Payne",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":210,
@@ -1677,7 +1886,8 @@ playerRank = [
     "Last":"Housler",
     "Position":"TE",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":211,
@@ -1685,7 +1895,8 @@ playerRank = [
     "Last":"Carr",
     "Position":"QB",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":212,
@@ -1693,7 +1904,8 @@ playerRank = [
     "Last":"Lee",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":213,
@@ -1701,7 +1913,8 @@ playerRank = [
     "Last":"Wilson",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":214,
@@ -1709,7 +1922,8 @@ playerRank = [
     "Last":"Watson",
     "Position":"TE",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":215,
@@ -1717,7 +1931,8 @@ playerRank = [
     "Last":"Beasley",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":216,
@@ -1725,7 +1940,8 @@ playerRank = [
     "Last":"Janis",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":217,
@@ -1733,7 +1949,8 @@ playerRank = [
     "Last":"Starks",
     "Position":"RB",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":218,
@@ -1741,7 +1958,8 @@ playerRank = [
     "Last":"Powell",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":219,
@@ -1749,7 +1967,8 @@ playerRank = [
     "Last":"Hillman",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":220,
@@ -1757,7 +1976,8 @@ playerRank = [
     "Last":"Bengals",
     "Position":"DS",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":221,
@@ -1765,7 +1985,8 @@ playerRank = [
     "Last":"Amendola",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":222,
@@ -1773,7 +1994,8 @@ playerRank = [
     "Last":"Ridley",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":223,
@@ -1781,7 +2003,8 @@ playerRank = [
     "Last":"Bortles",
     "Position":"QB",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":224,
@@ -1789,7 +2012,8 @@ playerRank = [
     "Last":"Toon",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":225,
@@ -1797,7 +2021,8 @@ playerRank = [
     "Last":"Green",
     "Position":"TE",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":226,
@@ -1805,7 +2030,8 @@ playerRank = [
     "Last":"Tamme",
     "Position":"TE",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":227,
@@ -1813,7 +2039,8 @@ playerRank = [
     "Last":"Strong",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":228,
@@ -1821,7 +2048,8 @@ playerRank = [
     "Last":"Cotchery",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":229,
@@ -1829,7 +2057,8 @@ playerRank = [
     "Last":"Hartline",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":230,
@@ -1837,7 +2066,8 @@ playerRank = [
     "Last":"Fitzpatrick",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":231,
@@ -1845,7 +2075,8 @@ playerRank = [
     "Last":"Foles",
     "Position":"QB",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":232,
@@ -1853,7 +2084,8 @@ playerRank = [
     "Last":"Chiefs",
     "Position":"DS",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":233,
@@ -1861,7 +2093,8 @@ playerRank = [
     "Last":"Douglas",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":234,
@@ -1869,7 +2102,8 @@ playerRank = [
     "Last":"Woods",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":235,
@@ -1877,7 +2111,8 @@ playerRank = [
     "Last":"Richardson",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":236,
@@ -1885,7 +2120,8 @@ playerRank = [
     "Last":"Aiken",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":237,
@@ -1893,7 +2129,8 @@ playerRank = [
     "Last":"Jennings",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":238,
@@ -1901,7 +2138,8 @@ playerRank = [
     "Last":"Lions",
     "Position":"DS",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":239,
@@ -1909,7 +2147,8 @@ playerRank = [
     "Last":"Eagles",
     "Position":"DS",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":240,
@@ -1917,7 +2156,8 @@ playerRank = [
     "Last":"Oliver",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":241,
@@ -1925,7 +2165,8 @@ playerRank = [
     "Last":"Brown",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":242,
@@ -1933,7 +2174,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":243,
@@ -1941,7 +2183,8 @@ playerRank = [
     "Last":"Sanu",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":244,
@@ -1949,7 +2192,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":245,
@@ -1957,7 +2201,8 @@ playerRank = [
     "Last":"Huff",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":246,
@@ -1965,7 +2210,8 @@ playerRank = [
     "Last":"Cunningham",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":247,
@@ -1973,7 +2219,8 @@ playerRank = [
     "Last":"Gostkowski",
     "Position":"K1",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":248,
@@ -1981,7 +2228,8 @@ playerRank = [
     "Last":"Thompson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":249,
@@ -1989,7 +2237,8 @@ playerRank = [
     "Last":"Wilson",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":250,
@@ -1997,7 +2246,8 @@ playerRank = [
     "Last":"Lockett",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":251,
@@ -2005,7 +2255,8 @@ playerRank = [
     "Last":"49ers",
     "Position":"DS",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":252,
@@ -2013,7 +2264,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":253,
@@ -2021,7 +2273,8 @@ playerRank = [
     "Last":"Wright",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":254,
@@ -2029,7 +2282,8 @@ playerRank = [
     "Last":"Gerhart",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":255,
@@ -2037,7 +2291,8 @@ playerRank = [
     "Last":"Vinatieri",
     "Position":"K2",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":256,
@@ -2045,7 +2300,8 @@ playerRank = [
     "Last":"Cassel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":257,
@@ -2053,7 +2309,8 @@ playerRank = [
     "Last":"Nicks",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":258,
@@ -2061,7 +2318,8 @@ playerRank = [
     "Last":"McCown",
     "Position":"QB",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":259,
@@ -2069,7 +2327,8 @@ playerRank = [
     "Last":"Manziel",
     "Position":"QB",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":260,
@@ -2077,7 +2336,8 @@ playerRank = [
     "Last":"Hauschka",
     "Position":"K3",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":261,
@@ -2085,7 +2345,8 @@ playerRank = [
     "Last":"Sanchez",
     "Position":"QB",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":262,
@@ -2093,7 +2354,8 @@ playerRank = [
     "Last":"Manuel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":263,
@@ -2101,7 +2363,8 @@ playerRank = [
     "Last":"Thomas",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":264,
@@ -2109,7 +2372,8 @@ playerRank = [
     "Last":"Grimes",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":265,
@@ -2117,7 +2381,8 @@ playerRank = [
     "Last":"Crosby",
     "Position":"K4",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":266,
@@ -2125,7 +2390,8 @@ playerRank = [
     "Last":"Bolden",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":267,
@@ -2133,7 +2399,8 @@ playerRank = [
     "Last":"Parkey",
     "Position":"K5",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":268,
@@ -2141,7 +2408,8 @@ playerRank = [
     "Last":"Barth",
     "Position":"K6",
     "Team":"DEN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":269,
@@ -2149,7 +2417,8 @@ playerRank = [
     "Last":"Tucker",
     "Position":"K7",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":270,
@@ -2157,7 +2426,8 @@ playerRank = [
     "Last":"Hoyer",
     "Position":"QB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":271,
@@ -2165,7 +2435,8 @@ playerRank = [
     "Last":"Bailey",
     "Position":"K8",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":272,
@@ -2173,7 +2444,8 @@ playerRank = [
     "Last":"Hankerson",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":273,
@@ -2181,7 +2453,8 @@ playerRank = [
     "Last":"Montgomery",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":274,
@@ -2189,7 +2462,8 @@ playerRank = [
     "Last":"Hunter",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":275,
@@ -2197,7 +2471,8 @@ playerRank = [
     "Last":"McCluster",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":276,
@@ -2205,7 +2480,8 @@ playerRank = [
     "Last":"Bryant",
     "Position":"K9",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":277,
@@ -2213,7 +2489,8 @@ playerRank = [
     "Last":"Walford",
     "Position":"TE",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":278,
@@ -2221,7 +2498,8 @@ playerRank = [
     "Last":"Walsh",
     "Position":"K1",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":279,
@@ -2229,7 +2507,8 @@ playerRank = [
     "Last":"Kearse",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":280,
@@ -2237,7 +2516,8 @@ playerRank = [
     "Last":"Streater",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":281,
@@ -2245,7 +2525,8 @@ playerRank = [
     "Last":"Vikings",
     "Position":"DS",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":282,
@@ -2253,7 +2534,8 @@ playerRank = [
     "Last":"Fells",
     "Position":"TE",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":283,
@@ -2261,7 +2543,8 @@ playerRank = [
     "Last":"Washington",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":284,
@@ -2269,7 +2552,8 @@ playerRank = [
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":285,
@@ -2277,7 +2561,8 @@ playerRank = [
     "Last":"Graham",
     "Position":"TE",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":286,
@@ -2285,7 +2570,8 @@ playerRank = [
     "Last":"Cadet",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":287,
@@ -2293,7 +2579,8 @@ playerRank = [
     "Last":"Colts",
     "Position":"DS",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":288,
@@ -2301,7 +2588,8 @@ playerRank = [
     "Last":"Asiata",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":289,
@@ -2309,7 +2597,8 @@ playerRank = [
     "Last":"Gabriel",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":290,
@@ -2317,7 +2606,8 @@ playerRank = [
     "Last":"Patterson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":291,
@@ -2325,7 +2615,8 @@ playerRank = [
     "Last":"Thomas",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":292,
@@ -2333,7 +2624,8 @@ playerRank = [
     "Last":"Chandler",
     "Position":"TE",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":293,
@@ -2341,7 +2633,8 @@ playerRank = [
     "Last":"Robinson",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":294,
@@ -2349,7 +2642,8 @@ playerRank = [
     "Last":"Stacy",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":295,
@@ -2357,7 +2651,8 @@ playerRank = [
     "Last":"Austin",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":296,
@@ -2365,7 +2660,8 @@ playerRank = [
     "Last":"Kerley",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":297,
@@ -2373,7 +2669,8 @@ playerRank = [
     "Last":"Browns",
     "Position":"DS",
     "Team":"CLE",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":298,
@@ -2381,7 +2678,8 @@ playerRank = [
     "Last":"Dobson",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":299,
@@ -2389,7 +2687,8 @@ playerRank = [
     "Last":"Williams",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":300,
@@ -2397,7 +2696,8 @@ playerRank = [
     "Last":"Dickson",
     "Position":"TE",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":301,
@@ -2405,7 +2705,8 @@ playerRank = [
     "Last":"Steelers",
     "Position":"DS",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":302,
@@ -2413,7 +2714,8 @@ playerRank = [
     "Last":"Cowboys",
     "Position":"DS",
     "Team":"DAL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":303,
@@ -2421,7 +2723,8 @@ playerRank = [
     "Last":"Giants",
     "Position":"DS",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":304,
@@ -2429,7 +2732,8 @@ playerRank = [
     "Last":"Chargers",
     "Position":"DS",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":305,
@@ -2437,7 +2741,8 @@ playerRank = [
     "Last":"Jaguars",
     "Position":"DS",
     "Team":"JAC",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":306,
@@ -2445,7 +2750,8 @@ playerRank = [
     "Last":"Buccaneers",
     "Position":"DS",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":307,
@@ -2453,7 +2759,8 @@ playerRank = [
     "Last":"Titans",
     "Position":"DS",
     "Team":"TEN",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":308,
@@ -2461,7 +2768,8 @@ playerRank = [
     "Last":"Smith",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":309,
@@ -2469,7 +2777,8 @@ playerRank = [
     "Last":"Falcons",
     "Position":"DS",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":310,
@@ -2477,7 +2786,8 @@ playerRank = [
     "Last":"Bears",
     "Position":"DS",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":311,
@@ -2485,7 +2795,8 @@ playerRank = [
     "Last":"Conley",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":312,
@@ -2493,7 +2804,8 @@ playerRank = [
     "Last":"Kendricks",
     "Position":"TE",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":313,
@@ -2501,7 +2813,8 @@ playerRank = [
     "Last":"Roberts",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":314,
@@ -2509,7 +2822,8 @@ playerRank = [
     "Last":"Cooper",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":315,
@@ -2517,7 +2831,8 @@ playerRank = [
     "Last":"Celek",
     "Position":"TE",
     "Team":"PHI",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":316,
@@ -2525,7 +2840,8 @@ playerRank = [
     "Last":"Wright",
     "Position":"TE",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":317,
@@ -2533,7 +2849,8 @@ playerRank = [
     "Last":"Hartley",
     "Position":"K1",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":318,
@@ -2541,7 +2858,8 @@ playerRank = [
     "Last":"Prater",
     "Position":"K1",
     "Team":"DET",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":319,
@@ -2549,7 +2867,8 @@ playerRank = [
     "Last":"Catanzaro",
     "Position":"K1",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":320,
@@ -2557,7 +2876,8 @@ playerRank = [
     "Last":"Novak",
     "Position":"K1",
     "Team":"SD",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":321,
@@ -2565,7 +2885,8 @@ playerRank = [
     "Last":"Taylor",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":322,
@@ -2573,7 +2894,8 @@ playerRank = [
     "Last":"Dawson",
     "Position":"K1",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":323,
@@ -2581,7 +2903,8 @@ playerRank = [
     "Last":"Carpenter",
     "Position":"K1",
     "Team":"BUF",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   },
   {
     "Rank":324,
@@ -2589,7 +2912,8 @@ playerRank = [
     "Last":"Sturgis",
     "Position":"K1",
     "Team":"MIA",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":325,
@@ -2597,7 +2921,8 @@ playerRank = [
     "Last":"Hopkins",
     "Position":"K1",
     "Team":"NO",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":326,
@@ -2605,7 +2930,8 @@ playerRank = [
     "Last":"Gresham",
     "Position":"TE",
     "Team":"ARI",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":327,
@@ -2613,7 +2939,8 @@ playerRank = [
     "Last":"Gano",
     "Position":"K1",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":328,
@@ -2621,7 +2948,8 @@ playerRank = [
     "Last":"Michael",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":329,
@@ -2629,7 +2957,8 @@ playerRank = [
     "Last":"Bullock",
     "Position":"K2",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":330,
@@ -2637,7 +2966,8 @@ playerRank = [
     "Last":"Brown",
     "Position":"K2",
     "Team":"NYG",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":331,
@@ -2645,7 +2975,8 @@ playerRank = [
     "Last":"Holmes",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":332,
@@ -2653,7 +2984,8 @@ playerRank = [
     "Last":"Nugent",
     "Position":"K2",
     "Team":"CIN",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":333,
@@ -2661,7 +2993,8 @@ playerRank = [
     "Last":"Zuerlein",
     "Position":"K2",
     "Team":"STL",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":334,
@@ -2669,7 +3002,8 @@ playerRank = [
     "Last":"Santos",
     "Position":"K2",
     "Team":"KC",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":335,
@@ -2677,7 +3011,8 @@ playerRank = [
     "Last":"Rodgers",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":336,
@@ -2685,7 +3020,8 @@ playerRank = [
     "Last":"Ginn",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":337,
@@ -2693,7 +3029,8 @@ playerRank = [
     "Last":"Gillmore",
     "Position":"TE",
     "Team":"BAL",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":338,
@@ -2701,7 +3038,8 @@ playerRank = [
     "Last":"Mallett",
     "Position":"QB",
     "Team":"HOU",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":339,
@@ -2709,7 +3047,8 @@ playerRank = [
     "Last":"Langford",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":340,
@@ -2717,7 +3056,8 @@ playerRank = [
     "Last":"Carey",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7
+    "Bye Week":7,
+    "DraftedPick":0
   },
   {
     "Rank":341,
@@ -2725,7 +3065,8 @@ playerRank = [
     "Last":"Coates",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11
+    "Bye Week":11,
+    "DraftedPick":0
   },
   {
     "Rank":342,
@@ -2733,7 +3074,8 @@ playerRank = [
     "Last":"Turbin",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":343,
@@ -2741,7 +3083,8 @@ playerRank = [
     "Last":"Hardy",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":344,
@@ -2749,7 +3092,8 @@ playerRank = [
     "Last":"Davis",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10
+    "Bye Week":10,
+    "DraftedPick":0
   },
   {
     "Rank":345,
@@ -2757,7 +3101,8 @@ playerRank = [
     "Last":"Garoppolo",
     "Position":"QB",
     "Team":"NE",
-    "Bye Week":4
+    "Bye Week":4,
+    "DraftedPick":0
   },
   {
     "Rank":346,
@@ -2765,7 +3110,8 @@ playerRank = [
     "Last":"Tolbert",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5
+    "Bye Week":5,
+    "DraftedPick":0
   },
   {
     "Rank":347,
@@ -2773,7 +3119,8 @@ playerRank = [
     "Last":"Matthews",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9
+    "Bye Week":9,
+    "DraftedPick":0
   },
   {
     "Rank":348,
@@ -2781,7 +3128,8 @@ playerRank = [
     "Last":"Rainey",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6
+    "Bye Week":6,
+    "DraftedPick":0
   },
   {
     "Rank":349,
@@ -2789,6 +3137,7 @@ playerRank = [
     "Last":"Cousins",
     "Position":"QB",
     "Team":"WAS",
-    "Bye Week":8
+    "Bye Week":8,
+    "DraftedPick":0
   }
-];
+]

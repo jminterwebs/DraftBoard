@@ -56,7 +56,7 @@
             <div class="col-team">
                <ul>
 
-        <li >Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+        <li ng-repeat= "list in playerlist | filter: {DraftedPick: 1}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 </div>
             <div class="col-team"></div>
@@ -85,6 +85,7 @@
 
     <!-- Controllers -->
     <script src="javascript/controller/DraftlistController.js"></script>
+    "
     <!-- Filters -->
     <script src="javascript/filters/playerSearch.js"></script>
 
