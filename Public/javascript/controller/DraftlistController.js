@@ -41,7 +41,6 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
 
       $scope.player.DraftedRound = draftround;
       $scope.player.DraftedPick  = draftpick;
-
       $scope.player.DraftedTeamName = "BenchWarmers";
 
 
@@ -55,8 +54,9 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
         draftpick ++;
 
 
-     console.log("Draft pick " + $scope.player.DraftedPick + " Drafted Round " + $scope.player.DraftedRound + " Team Drafted " + $scope.player.DraftedTeamPosition );
 
+     console.log("Draft pick " + $scope.player.DraftedPick + " Drafted Round " + $scope.player.DraftedRound + " Team Drafted " + $scope.player.DraftedTeamPosition );
+        $scope.player = "";
 
     };
 

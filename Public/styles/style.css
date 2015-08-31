@@ -26,6 +26,11 @@
 }
 
 
+.col-team {
+    display: inline-block;
+    width: 9%
+}
+
 li{
  margin-bottom: 8px;
  cursor: pointer;

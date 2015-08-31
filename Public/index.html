@@ -43,7 +43,7 @@
     </form>
     <ul class="list">
 
-        <li ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0}"
+        <li ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0} :true"
             ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 
@@ -55,19 +55,63 @@
         <div class="drafted">
             <div class="col-team">
                <ul>
-
-        <li ng-repeat= "list in playerlist | filter: {DraftedPick: 1}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 1} :true">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
             {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
 </div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
-            <div class="col-team"></div>
+        <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 2}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+        <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 3}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 4}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 5}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 6}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 7}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 8}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 9}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
+    <div class="col-team">
+               <ul>
+
+        <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 10}">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
+            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+</div>
     </div>
 
 

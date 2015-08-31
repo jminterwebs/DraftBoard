@@ -18,7 +18,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bell",
     "Position":"RB",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
