@@ -1,10 +1,21 @@
-.list
-{
-    list-style-type: none;
-    padding-left: 10px;
-    background-color: bisque;
-    overflow: auto;
-    height: 750px;
+ul{
+ padding: 0;
+ margin: 0;
+ list-style-type: none;
+
+}
+
+li{
+ padding: 0;
+ margin: 0;
+}
+
+
+.selection{
+width: 45%;
+height: 265px;
+background: GREEN;
+float: left;
 
 }
 
@@ -12,32 +23,61 @@
    background-color: lightgray;
    padding: 0px;
    margin-left: 0px;
-   width: 11%;
+   width: 25%;
    float: left;
-   height: 820px;
-
+   height: 100%;
 
 }
+.list
+{
+    list-style-type: none;
+    padding-left: 10px;
+    background-color: bisque;
+    overflow: auto;
+    height: 70%;
+
+}
+
+.selectedplayer{
+
+    background: red;
+    float: left;
+    width: 75%;
+    height: 100%;
+    padding-left: 2.5%;
+
+}
+
+
+
 .drafted{
 
-    width: 88%;
-    height: 820px;
+    width: 100%;
+
     float: left;
 }
 
 
 .col-team {
-    display: inline-block;
-    width: 9.65%;
+    float: left;
+    width: 10%;
     vertical-align: top;
+    font-size: 12pt;
 }
 
+.col-team ul li{
+    font-size: 13pt;
+    font-weight: bold;
+    background-color: chocolate;
+    padding-left: 5%;
+    border-left: solid red 10px;
 
+}
 
 li.avail {
  margin-bottom: 8px;
  cursor: pointer;
-
+ padding-left: 5px;
 }
 
 
@@ -45,47 +85,22 @@ li:hover {
  background-color: darkgoldenrod;
 }
 
-.RB{
-    padding-left: 5px;
-    border-left: solid 10px red;
-}
-.WR{
-    padding-left: 5px;
-    border-left: solid 10px green;
-}
-.TE{
-    padding-left: 5px;
-    border-left: solid 10px black;
-}
-.QB{
-    padding-left: 5px;
-    border-left: solid 10px Blue;
-}
-.DEF{
-    padding-left: 5px;
-    border-left: solid 10px white;
-}
-.K{
-    padding-left: 5px;
-    border-left: solid 10px Pink;
-}
+.RB{  border-left: solid 10px red;}
+.WR{  border-left: solid 10px green;}
+.TE{  border-left: solid 10px black;}
+.QB{  border-left: solid 10px Blue;}
+.DEF{ border-left: solid 10px white;}
+.K{   border-left: solid 10px Pink; }
 
 
 
 
 
-.selection{
-width: 45%;
-height: 250px;
-background: GREEN;
-float: left;
-
-}
 
 .roundInfo{
     float: right;
     width: 55%;
-    height: 250px;
+    height: 265px;
     background: Blue;
 
 }

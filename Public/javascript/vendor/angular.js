@@ -17575,10 +17575,10 @@ function limitToFilter() {
  * The example below demonstrates a simple ngRepeat, where the data is sorted
  * by age in descending order (predicate is set to `'-age'`).
  * `reverse` is not set, which means it defaults to `false`.
-   <example module="orderByExample">
+   <example module="orderByexample">
      <file name="index.html">
        <script>
-         angular.module('orderByExample', [])
+         angular.module('orderByexample', [])
            .controller('ExampleController', ['$scope', function($scope) {
              $scope.friends =
                  [{name:'John', phone:'555-1212', age:10},
@@ -17608,10 +17608,10 @@ function limitToFilter() {
  * The predicate and reverse parameters can be controlled dynamically through scope properties,
  * as shown in the next example.
  * @example
-   <example module="orderByExample">
+   <example module="orderByexample">
      <file name="index.html">
        <script>
-         angular.module('orderByExample', [])
+         angular.module('orderByexample', [])
            .controller('ExampleController', ['$scope', function($scope) {
              $scope.friends =
                  [{name:'John', phone:'555-1212', age:10},
@@ -17650,7 +17650,7 @@ function limitToFilter() {
  * Example:
  *
  * @example
-  <example module="orderByExample">
+  <example module="orderByexample">
     <file name="index.html">
       <div ng-controller="ExampleController">
         <table class="friend">
@@ -17670,7 +17670,7 @@ function limitToFilter() {
     </file>
 
     <file name="script.js">
-      angular.module('orderByExample', [])
+      angular.module('orderByexample', [])
         .controller('ExampleController', ['$scope', '$filter', function($scope, $filter) {
           var orderBy = $filter('orderBy');
           $scope.friends = [
@@ -24519,7 +24519,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
       var lhs = match[1];
       var rhs = match[2];
       var aliasAs = match[3];
-      var trackByExp = match[4];
+      var trackByexp = match[4];
 
       match = lhs.match(/^(?:(\s*[\$\w]+)|\(\s*([\$\w]+)\s*,\s*([\$\w]+)\s*\))$/);
 
@@ -24536,11 +24536,11 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
           aliasAs);
       }
 
-      var trackByExpGetter, trackByIdExpFn, trackByIdArrayFn, trackByIdObjFn;
+      var trackByexpGetter, trackByIdExpFn, trackByIdArrayFn, trackByIdObjFn;
       var hashFnLocals = {$id: hashKey};
 
-      if (trackByExp) {
-        trackByExpGetter = $parse(trackByExp);
+      if (trackByexp) {
+        trackByexpGetter = $parse(trackByexp);
       } else {
         trackByIdArrayFn = function(key, value) {
           return hashKey(value);
@@ -24552,13 +24552,13 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
 
       return function ngRepeatLink($scope, $element, $attr, ctrl, $transclude) {
 
-        if (trackByExpGetter) {
+        if (trackByexpGetter) {
           trackByIdExpFn = function(key, value, index) {
             // assign key, value, and $index to the locals so that they can be used in hash functions
             if (keyIdentifier) hashFnLocals[keyIdentifier] = key;
             hashFnLocals[valueIdentifier] = value;
             hashFnLocals.$index = index;
-            return trackByExpGetter($scope, hashFnLocals);
+            return trackByexpGetter($scope, hashFnLocals);
           };
         }
 
