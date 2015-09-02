@@ -39,13 +39,17 @@
         <option value="DEF">DEF</option>
         <option value="K">K</option>
     </select>
-        {{nameSearch.position}}
+
     </form>
     <ul class="list">
 
-        <li ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0} :true"
-            ng-click="PlayerSelected($event, this)">Rank: {{list.Rank}} Pos: {{list.Position}} {{list.Team}}</br>
-            {{list.Last}}, {{list.First}} Bye: {{list.Bye}}</li>
+        <li  ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0} :true"
+            ng-click="PlayerSelected($event, this)"
+            class="{{list.Position}} avail">
+
+            {{list.Rank}}: {{list.Last}}, {{list.First}}  </br>
+            Pos: {{list.Position}} {{list.Team}}
+           Bye: {{list.Bye}}</li>
 
     </ul>
 
@@ -129,7 +133,7 @@
 
     <!-- Controllers -->
     <script src="javascript/controller/DraftlistController.js"></script>
-    "
+
     <!-- Filters -->
     <script src="javascript/filters/playerSearch.js"></script>
 

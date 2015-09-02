@@ -9,17 +9,17 @@
 }
 
 .selectionlist {
-   background-color: red;
+   background-color: lightgray;
    padding: 0px;
    margin-left: 0px;
-   width: 12%;
+   width: 11%;
    float: left;
    height: 820px;
 
 
 }
 .drafted{
-    background-color: darkgray;
+
     width: 88%;
     height: 820px;
     float: left;
@@ -28,16 +28,51 @@
 
 .col-team {
     display: inline-block;
-    width: 9%
+    width: 9.65%;
+    vertical-align: top;
 }
 
-li{
+
+
+li.avail {
  margin-bottom: 8px;
  cursor: pointer;
+
 }
+
+
 li:hover {
  background-color: darkgoldenrod;
 }
+
+.RB{
+    padding-left: 5px;
+    border-left: solid 10px red;
+}
+.WR{
+    padding-left: 5px;
+    border-left: solid 10px green;
+}
+.TE{
+    padding-left: 5px;
+    border-left: solid 10px black;
+}
+.QB{
+    padding-left: 5px;
+    border-left: solid 10px Blue;
+}
+.DEF{
+    padding-left: 5px;
+    border-left: solid 10px white;
+}
+.K{
+    padding-left: 5px;
+    border-left: solid 10px Pink;
+}
+
+
+
+
 
 .selection{
 width: 45%;
@@ -59,3 +94,8 @@ float: left;
 
     margin-left: 60%;
 }
+
+.search-width {
+    padding: 2%;
+}
+

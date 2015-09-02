@@ -27,7 +27,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Charles",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -36,7 +36,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Peterson",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -45,7 +45,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Brown",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -54,7 +54,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Lacy",
     "Position":"RB",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -63,7 +63,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jones",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -72,7 +72,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Thomas",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -81,7 +81,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gronkowski",
     "Position":"TE",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -90,7 +90,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bryant",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -99,7 +99,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Beckham Jr.",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -108,7 +108,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Forte",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -117,7 +117,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Anderson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -126,7 +126,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Lynch",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -135,7 +135,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"WR",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -144,7 +144,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Green",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -153,7 +153,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cobb",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -162,7 +162,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Forsett",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -171,7 +171,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Murray",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -180,7 +180,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jeffery",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -189,7 +189,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hill",
     "Position":"RB",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -198,7 +198,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Evans",
     "Position":"WR",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -207,7 +207,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"McCoy",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -216,7 +216,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hilton",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -225,7 +225,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Miller",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -234,7 +234,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hopkins",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -243,7 +243,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Luck",
     "Position":"QB",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -252,7 +252,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cooks",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -261,7 +261,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rodgers",
     "Position":"QB",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -270,7 +270,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gore",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -279,7 +279,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sanders",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -288,7 +288,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Matthews",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -297,7 +297,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ingram",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -306,7 +306,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ellington",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -315,7 +315,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Edelman",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -324,7 +324,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Spiller",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -333,7 +333,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -342,7 +342,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gordon",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -351,7 +351,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Morris",
     "Position":"RB",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -360,7 +360,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Allen",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -369,7 +369,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Stewart",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -378,7 +378,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Murray",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -387,7 +387,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Graham",
     "Position":"TE",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -396,7 +396,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Marshall",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -405,7 +405,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Tate",
     "Position":"WR",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -414,7 +414,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cooper",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -423,7 +423,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wilson",
     "Position":"QB",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -432,7 +432,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Abdullah",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -441,7 +441,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Olsen",
     "Position":"TE",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -450,7 +450,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Robinson",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -459,7 +459,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Randle",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -468,7 +468,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Yeldon",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -477,7 +477,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Kelce",
     "Position":"TE",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -486,7 +486,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Manning",
     "Position":"QB",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -495,7 +495,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hyde",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -504,7 +504,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Landry",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -513,7 +513,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Maclin",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -522,7 +522,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bernard",
     "Position":"RB",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -531,7 +531,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Brees",
     "Position":"QB",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -540,7 +540,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Watkins",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -549,7 +549,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Roethlisberger",
     "Position":"QB",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -558,7 +558,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jackson",
     "Position":"WR",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -567,7 +567,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jackson",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -576,7 +576,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gurley",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -585,7 +585,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"White",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -594,7 +594,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bennett",
     "Position":"TE",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -603,7 +603,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Fitzgerald",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -612,7 +612,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Decker",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -621,7 +621,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ryan",
     "Position":"QB",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -630,7 +630,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Blount",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -639,7 +639,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -648,7 +648,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Boldin",
     "Position":"WR",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -657,7 +657,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"LaFell",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -666,7 +666,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Romo",
     "Position":"QB",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -675,7 +675,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ivory",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -684,7 +684,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Vereen",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -693,7 +693,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jennings",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -702,7 +702,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Martin",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -711,7 +711,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bryant",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -720,7 +720,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bell",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -729,7 +729,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Newton",
     "Position":"QB",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -738,7 +738,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wallace",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -747,7 +747,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Freeman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -756,7 +756,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Garcon",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -765,7 +765,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -774,7 +774,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Adams",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -783,7 +783,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Manning",
     "Position":"QB",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -792,7 +792,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Witten",
     "Position":"TE",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -801,7 +801,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cameron",
     "Position":"TE",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -810,7 +810,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Brown",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -819,7 +819,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wright",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -828,7 +828,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Tannehill",
     "Position":"QB",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -837,7 +837,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Walker",
     "Position":"TE",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -846,7 +846,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Coleman",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -855,7 +855,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Agholor",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -864,7 +864,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Colston",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -873,7 +873,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Crowell",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -882,7 +882,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Thomas",
     "Position":"TE",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -891,7 +891,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Stafford",
     "Position":"QB",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -900,7 +900,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"WR",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -909,7 +909,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Woodhead",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -918,7 +918,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Foster",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -927,7 +927,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bush",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -936,7 +936,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ertz",
     "Position":"TE",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -945,7 +945,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rivers",
     "Position":"QB",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -954,7 +954,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cruz",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -963,7 +963,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Brady",
     "Position":"QB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -972,7 +972,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -981,7 +981,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Eifert",
     "Position":"TE",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -990,7 +990,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sankey",
     "Position":"RB",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -999,7 +999,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Royal",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1008,7 +1008,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Mathews",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1017,7 +1017,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Mason",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1026,7 +1026,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Floyd",
     "Position":"WR",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1035,7 +1035,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Nelson",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1044,7 +1044,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Funchess",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1053,7 +1053,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rudolph",
     "Position":"TE",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1062,7 +1062,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Miller",
     "Position":"TE",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1071,7 +1071,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Helu",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1080,7 +1080,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Donnell",
     "Position":"TE",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1089,7 +1089,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Seferian-Jenkins",
     "Position":"TE",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1098,7 +1098,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sims",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1107,7 +1107,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Daniels",
     "Position":"TE",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1116,7 +1116,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Perriman",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1125,7 +1125,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Allen",
     "Position":"TE",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1134,16 +1134,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
     "Rank":126,
     "First":"Seattle",
     "Last":"Seahawks",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1152,7 +1152,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gates",
     "Position":"TE",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1161,7 +1161,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cobb",
     "Position":"RB",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -1170,7 +1170,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bradford",
     "Position":"QB",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1179,7 +1179,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sproles",
     "Position":"RB",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1188,7 +1188,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Quick",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1197,7 +1197,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Randle",
     "Position":"WR",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1206,7 +1206,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Blue",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1215,7 +1215,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Kaepernick",
     "Position":"QB",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1224,7 +1224,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1233,7 +1233,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bridgewater",
     "Position":"QB",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1242,7 +1242,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Reed",
     "Position":"TE",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1251,16 +1251,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Clay",
     "Position":"TE",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":139,
     "First":"Buffalo",
     "Last":"Bills",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1269,7 +1269,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Crabtree",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1278,7 +1278,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hill",
     "Position":"TE",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1287,16 +1287,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Stills",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":143,
     "First":"St. Louis",
     "Last":"Rams",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1305,16 +1305,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"McFadden",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":145,
     "First":"Houston",
     "Last":"Texans",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1323,7 +1323,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Parker",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1332,7 +1332,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Davis",
     "Position":"TE",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1341,7 +1341,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1350,7 +1350,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Flacco",
     "Position":"QB",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1359,7 +1359,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Davis",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1368,7 +1368,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Palmer",
     "Position":"QB",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1377,7 +1377,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jackson",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1386,7 +1386,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bowe",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1395,7 +1395,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jones",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1404,7 +1404,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Fleener",
     "Position":"TE",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1413,7 +1413,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Green",
     "Position":"TE",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1422,7 +1422,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Baldwin",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1431,7 +1431,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Harvin",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1440,7 +1440,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ebron",
     "Position":"TE",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1449,16 +1449,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cutler",
     "Position":"QB",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
     "Rank":161,
     "First":"Arizona",
     "Last":"Cardinals",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1467,7 +1467,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"McKinnon",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1476,7 +1476,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wheaton",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1485,7 +1485,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ajayi",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1494,7 +1494,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Dalton",
     "Position":"QB",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1503,7 +1503,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cook",
     "Position":"TE",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1512,7 +1512,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"RB",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1521,7 +1521,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jones",
     "Position":"RB",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1530,7 +1530,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Robinson",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1539,16 +1539,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"White",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
     "Rank":171,
     "First":"Denver",
     "Last":"Broncos",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1557,7 +1557,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Dunbar",
     "Position":"RB",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1566,7 +1566,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Latimer",
     "Position":"WR",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1575,16 +1575,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"West",
     "Position":"RB",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":175,
     "First":"New England",
     "Last":"Patriots",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -1593,7 +1593,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Amaro",
     "Position":"TE",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1602,7 +1602,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Floyd",
     "Position":"WR",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1611,7 +1611,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rivera",
     "Position":"TE",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1620,7 +1620,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Coleman",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1629,7 +1629,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ball",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1638,7 +1638,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Polk",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1647,7 +1647,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Herron",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1656,16 +1656,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Shorts",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":184,
     "First":"Carolina",
     "Last":"Panthers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1674,7 +1674,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Riddick",
     "Position":"RB",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1683,7 +1683,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Britt",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1692,7 +1692,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"White",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1701,7 +1701,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Winston",
     "Position":"QB",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1710,7 +1710,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hawkins",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1719,7 +1719,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gray",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -1728,7 +1728,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Green-Beckham",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -1737,7 +1737,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Allen",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1746,7 +1746,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Mariota",
     "Position":"QB",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -1755,7 +1755,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"RB",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1764,16 +1764,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Robinson",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":196,
     "First":"Miami",
     "Last":"Dolphins",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1782,7 +1782,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Moncrief",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1791,7 +1791,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hurns",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1800,7 +1800,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rodgers",
     "Position":"TE",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1809,16 +1809,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Griffin III",
     "Position":"QB",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":201,
     "First":"New York",
     "Last":"Jets",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1827,7 +1827,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"QB",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1836,7 +1836,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Dorsett",
     "Position":"WR",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -1845,7 +1845,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"TE",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -1854,25 +1854,25 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Taliaferro",
     "Position":"RB",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":206,
     "First":"Baltimore",
     "Last":"Ravens",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":207,
     "First":"Green Bay",
     "Last":"Packers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1881,7 +1881,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bailey",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1890,7 +1890,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Artis-Payne",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1899,7 +1899,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Housler",
     "Position":"TE",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1908,7 +1908,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Carr",
     "Position":"QB",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1917,7 +1917,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Lee",
     "Position":"WR",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -1926,7 +1926,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wilson",
     "Position":"WR",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1935,7 +1935,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Watson",
     "Position":"TE",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -1944,7 +1944,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Beasley",
     "Position":"WR",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -1953,7 +1953,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Janis",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1962,7 +1962,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Starks",
     "Position":"RB",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1971,7 +1971,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Powell",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -1980,16 +1980,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hillman",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
     "Rank":220,
     "First":"Cincinnati",
     "Last":"Bengals",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -1998,7 +1998,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Amendola",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2007,7 +2007,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ridley",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2016,7 +2016,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bortles",
     "Position":"QB",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2025,7 +2025,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Toon",
     "Position":"WR",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2034,7 +2034,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Green",
     "Position":"TE",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2043,7 +2043,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Tamme",
     "Position":"TE",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2052,7 +2052,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Strong",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2061,7 +2061,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cotchery",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2070,7 +2070,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hartline",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2079,7 +2079,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Fitzpatrick",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2088,16 +2088,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Foles",
     "Position":"QB",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":232,
     "First":"Kansas City",
     "Last":"Chiefs",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2106,25 +2106,25 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Douglas",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
     "Rank":234,
     "First":"Robert",
-    "Last":"Woods",
+    "Last":"WooDEF",
     "Position":"WR",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":235,
     "First":"Trent",
-    "Last":"Richardson",
+    "Last":"RicharDEFon",
     "Position":"RB",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -2133,7 +2133,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Aiken",
     "Position":"WR",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2142,25 +2142,25 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Jennings",
     "Position":"WR",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":238,
     "First":"Detroit",
     "Last":"Lions",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":239,
     "First":"Philadelphia",
     "Last":"Eagles",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2169,7 +2169,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Oliver",
     "Position":"RB",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2178,7 +2178,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Brown",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2187,7 +2187,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"RB",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2196,7 +2196,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sanu",
     "Position":"WR",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2205,7 +2205,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"RB",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2214,7 +2214,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Huff",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2223,16 +2223,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cunningham",
     "Position":"RB",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":247,
     "First":"Stephen",
     "Last":"Gostkowski",
-    "Position":"K1",
+    "Position":"K",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2241,7 +2241,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Thompson",
     "Position":"RB",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2250,7 +2250,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wilson",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2259,16 +2259,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Lockett",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":251,
     "First":"San Francisco",
     "Last":"49ers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2277,7 +2277,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"QB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2286,7 +2286,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wright",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2295,16 +2295,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gerhart",
     "Position":"RB",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":255,
     "First":"Adam",
     "Last":"Vinatieri",
-    "Position":"K2",
+    "Position":"K",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2313,7 +2313,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cassel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2322,7 +2322,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Nicks",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2331,7 +2331,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"McCown",
     "Position":"QB",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2340,16 +2340,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Manziel",
     "Position":"QB",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":260,
     "First":"Steven",
     "Last":"Hauschka",
-    "Position":"K3",
+    "Position":"K",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2358,7 +2358,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Sanchez",
     "Position":"QB",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2367,7 +2367,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Manuel",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2376,7 +2376,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Thomas",
     "Position":"RB",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2385,16 +2385,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Grimes",
     "Position":"RB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":265,
     "First":"Mason",
     "Last":"Crosby",
-    "Position":"K4",
+    "Position":"K",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2403,34 +2403,34 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Bolden",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
     "Rank":267,
     "First":"Cody",
     "Last":"Parkey",
-    "Position":"K5",
+    "Position":"K",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":268,
     "First":"Connor",
     "Last":"Barth",
-    "Position":"K6",
+    "Position":"K",
     "Team":"DEN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
     "Rank":269,
     "First":"Justin",
     "Last":"Tucker",
-    "Position":"K7",
+    "Position":"K",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2439,16 +2439,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hoyer",
     "Position":"QB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":271,
     "First":"Dan",
     "Last":"Bailey",
-    "Position":"K8",
+    "Position":"K",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -2457,7 +2457,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hankerson",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2466,7 +2466,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Montgomery",
     "Position":"WR",
     "Team":"GB",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2475,7 +2475,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hunter",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2484,16 +2484,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"McCluster",
     "Position":"WR",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
     "Rank":276,
     "First":"Matt",
     "Last":"Bryant",
-    "Position":"K9",
+    "Position":"K",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2502,16 +2502,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Walford",
     "Position":"TE",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":278,
     "First":"Blair",
     "Last":"Walsh",
-    "Position":"K1",
+    "Position":"K",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2520,7 +2520,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Kearse",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2529,16 +2529,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Streater",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":281,
     "First":"Minnesota",
     "Last":"Vikings",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2547,7 +2547,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Fells",
     "Position":"TE",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2556,7 +2556,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Washington",
     "Position":"WR",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2565,7 +2565,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Johnson",
     "Position":"RB",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2574,7 +2574,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Graham",
     "Position":"TE",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2583,16 +2583,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cadet",
     "Position":"RB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
     "Rank":287,
     "First":"Indianapolis",
     "Last":"Colts",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2601,7 +2601,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Asiata",
     "Position":"RB",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2610,7 +2610,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gabriel",
     "Position":"WR",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2619,7 +2619,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Patterson",
     "Position":"WR",
     "Team":"MIN",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2628,7 +2628,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Thomas",
     "Position":"RB",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2637,7 +2637,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Chandler",
     "Position":"TE",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2646,7 +2646,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Robinson",
     "Position":"RB",
     "Team":"IND",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2655,7 +2655,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Stacy",
     "Position":"RB",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2664,7 +2664,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Austin",
     "Position":"WR",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -2673,16 +2673,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Kerley",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":297,
     "First":"Cleveland",
     "Last":"Browns",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"CLE",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2691,7 +2691,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Dobson",
     "Position":"WR",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2700,7 +2700,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Williams",
     "Position":"RB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2709,70 +2709,70 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Dickson",
     "Position":"TE",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":301,
     "First":"Pittsburgh",
     "Last":"Steelers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":302,
     "First":"Dallas",
     "Last":"Cowboys",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"DAL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":303,
     "First":"New York",
     "Last":"Giants",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":304,
     "First":"San Diego",
     "Last":"Chargers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
     "Rank":305,
     "First":"Jacksonville",
     "Last":"Jaguars",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"JAC",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":306,
     "First":"Tampa Bay",
     "Last":"Buccaneers",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":307,
     "First":"Tennessee",
     "Last":"Titans",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"TEN",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -2781,25 +2781,25 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Smith",
     "Position":"WR",
     "Team":"NYJ",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":309,
     "First":"Atlanta",
     "Last":"Falcons",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
     "Rank":310,
     "First":"Chicago",
     "Last":"Bears",
-    "Position":"DS",
+    "Position":"DEF",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -2808,7 +2808,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Conley",
     "Position":"WR",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -2817,7 +2817,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Kendricks",
     "Position":"TE",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -2826,7 +2826,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Roberts",
     "Position":"WR",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2835,7 +2835,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cooper",
     "Position":"WR",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2844,7 +2844,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Celek",
     "Position":"TE",
     "Team":"PHI",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
@@ -2853,43 +2853,43 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Wright",
     "Position":"TE",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":317,
     "First":"Garrett",
     "Last":"Hartley",
-    "Position":"K1",
+    "Position":"K",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
     "Rank":318,
     "First":"Matt",
     "Last":"Prater",
-    "Position":"K1",
+    "Position":"K",
     "Team":"DET",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":319,
     "First":"Chandler",
     "Last":"Catanzaro",
-    "Position":"K1",
+    "Position":"K",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":320,
     "First":"Nick",
     "Last":"Novak",
-    "Position":"K1",
+    "Position":"K",
     "Team":"SD",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -2898,43 +2898,43 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Taylor",
     "Position":"QB",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":322,
     "First":"Phil",
     "Last":"Dawson",
-    "Position":"K1",
+    "Position":"K",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
     "Rank":323,
     "First":"Dan",
     "Last":"Carpenter",
-    "Position":"K1",
+    "Position":"K",
     "Team":"BUF",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   },
   {
     "Rank":324,
     "First":"Caleb",
     "Last":"Sturgis",
-    "Position":"K1",
+    "Position":"K",
     "Team":"MIA",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
     "Rank":325,
     "First":"Dustin",
     "Last":"Hopkins",
-    "Position":"K1",
+    "Position":"K",
     "Team":"NO",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2943,16 +2943,16 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gresham",
     "Position":"TE",
     "Team":"ARI",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":327,
     "First":"Graham",
     "Last":"Gano",
-    "Position":"K1",
+    "Position":"K",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -2961,25 +2961,25 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Michael",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":329,
     "First":"Randy",
     "Last":"Bullock",
-    "Position":"K2",
+    "Position":"K",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
     "Rank":330,
     "First":"Josh",
     "Last":"Brown",
-    "Position":"K2",
+    "Position":"K",
     "Team":"NYG",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -2988,34 +2988,34 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Holmes",
     "Position":"WR",
     "Team":"OAK",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":332,
     "First":"Mike",
     "Last":"Nugent",
-    "Position":"K2",
+    "Position":"K",
     "Team":"CIN",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
     "Rank":333,
     "First":"Greg",
     "Last":"Zuerlein",
-    "Position":"K2",
+    "Position":"K",
     "Team":"STL",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
     "Rank":334,
     "First":"Cairo",
     "Last":"Santos",
-    "Position":"K2",
+    "Position":"K",
     "Team":"KC",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -3024,7 +3024,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rodgers",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -3033,7 +3033,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Ginn",
     "Position":"WR",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -3042,7 +3042,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Gillmore",
     "Position":"TE",
     "Team":"BAL",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -3051,7 +3051,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Mallett",
     "Position":"QB",
     "Team":"HOU",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -3060,7 +3060,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Langford",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -3069,7 +3069,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Carey",
     "Position":"RB",
     "Team":"CHI",
-    "Bye Week":7,
+    "Bye":7,
     "DraftedPick":0
   },
   {
@@ -3078,7 +3078,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Coates",
     "Position":"WR",
     "Team":"PIT",
-    "Bye Week":11,
+    "Bye":11,
     "DraftedPick":0
   },
   {
@@ -3087,7 +3087,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Turbin",
     "Position":"RB",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -3096,7 +3096,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Hardy",
     "Position":"WR",
     "Team":"ATL",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -3105,7 +3105,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Davis",
     "Position":"RB",
     "Team":"SF",
-    "Bye Week":10,
+    "Bye":10,
     "DraftedPick":0
   },
   {
@@ -3114,7 +3114,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Garoppolo",
     "Position":"QB",
     "Team":"NE",
-    "Bye Week":4,
+    "Bye":4,
     "DraftedPick":0
   },
   {
@@ -3123,7 +3123,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Tolbert",
     "Position":"RB",
     "Team":"CAR",
-    "Bye Week":5,
+    "Bye":5,
     "DraftedPick":0
   },
   {
@@ -3132,7 +3132,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Matthews",
     "Position":"WR",
     "Team":"SEA",
-    "Bye Week":9,
+    "Bye":9,
     "DraftedPick":0
   },
   {
@@ -3141,7 +3141,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Rainey",
     "Position":"RB",
     "Team":"TB",
-    "Bye Week":6,
+    "Bye":6,
     "DraftedPick":0
   },
   {
@@ -3150,7 +3150,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Last":"Cousins",
     "Position":"QB",
     "Team":"WAS",
-    "Bye Week":8,
+    "Bye":8,
     "DraftedPick":0
   }
 ];
