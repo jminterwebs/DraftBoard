@@ -1141,8 +1141,8 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Rank":126,
     "First":"Seattle",
     "Last":"Seahawks",
-    "Position":"DEF",
-    "Team":"SEA",
+    "Position":"",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -1259,7 +1259,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Buffalo",
     "Last":"Bills",
     "Position":"DEF",
-    "Team":"BUF",
+    "Team":"",
     "Bye":8,
     "DraftedPick":0
   },
@@ -1295,7 +1295,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"St. Louis",
     "Last":"Rams",
     "Position":"DEF",
-    "Team":"STL",
+    "Team":"",
     "Bye":6,
     "DraftedPick":0
   },
@@ -1313,7 +1313,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Houston",
     "Last":"Texans",
     "Position":"DEF",
-    "Team":"HOU",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -1457,7 +1457,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Arizona",
     "Last":"Cardinals",
     "Position":"DEF",
-    "Team":"ARI",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -1547,7 +1547,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Denver",
     "Last":"Broncos",
     "Position":"DEF",
-    "Team":"DEN",
+    "Team":"",
     "Bye":7,
     "DraftedPick":0
   },
@@ -1583,7 +1583,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"New England",
     "Last":"Patriots",
     "Position":"DEF",
-    "Team":"NE",
+    "Team":"",
     "Bye":4,
     "DraftedPick":0
   },
@@ -1664,7 +1664,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Carolina",
     "Last":"Panthers",
     "Position":"DEF",
-    "Team":"CAR",
+    "Team":"",
     "Bye":5,
     "DraftedPick":0
   },
@@ -1772,7 +1772,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Miami",
     "Last":"Dolphins",
     "Position":"DEF",
-    "Team":"MIA",
+    "Team":"",
     "Bye":5,
     "DraftedPick":0
   },
@@ -1817,7 +1817,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"New York",
     "Last":"Jets",
     "Position":"DEF",
-    "Team":"NYJ",
+    "Team":"",
     "Bye":5,
     "DraftedPick":0
   },
@@ -1862,7 +1862,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Baltimore",
     "Last":"Ravens",
     "Position":"DEF",
-    "Team":"BAL",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -1871,7 +1871,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Green Bay",
     "Last":"Packers",
     "Position":"DEF",
-    "Team":"GB",
+    "Team":"",
     "Bye":7,
     "DraftedPick":0
   },
@@ -1988,7 +1988,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Cincinnati",
     "Last":"Bengals",
     "Position":"DEF",
-    "Team":"CIN",
+    "Team":"",
     "Bye":7,
     "DraftedPick":0
   },
@@ -2096,7 +2096,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Kansas City",
     "Last":"Chiefs",
     "Position":"DEF",
-    "Team":"KC",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -2150,7 +2150,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Detroit",
     "Last":"Lions",
     "Position":"DEF",
-    "Team":"DET",
+    "Team":"",
     "Bye":9,
     "DraftedPick":0
   },
@@ -2159,7 +2159,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Philadelphia",
     "Last":"Eagles",
     "Position":"DEF",
-    "Team":"PHI",
+    "Team":"",
     "Bye":8,
     "DraftedPick":0
   },
@@ -2267,7 +2267,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"San Francisco",
     "Last":"49ers",
     "Position":"DEF",
-    "Team":"SF",
+    "Team":"",
     "Bye":10,
     "DraftedPick":0
   },
@@ -2537,7 +2537,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Minnesota",
     "Last":"Vikings",
     "Position":"DEF",
-    "Team":"MIN",
+    "Team":"",
     "Bye":5,
     "DraftedPick":0
   },
@@ -2591,7 +2591,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Indianapolis",
     "Last":"Colts",
     "Position":"DEF",
-    "Team":"IND",
+    "Team":"",
     "Bye":10,
     "DraftedPick":0
   },
@@ -2681,7 +2681,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Cleveland",
     "Last":"Browns",
     "Position":"DEF",
-    "Team":"CLE",
+    "Team":"",
     "Bye":11,
     "DraftedPick":0
   },
@@ -2717,7 +2717,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Pittsburgh",
     "Last":"Steelers",
     "Position":"DEF",
-    "Team":"PIT",
+    "Team":"",
     "Bye":11,
     "DraftedPick":0
   },
@@ -2726,7 +2726,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Dallas",
     "Last":"Cowboys",
     "Position":"DEF",
-    "Team":"DAL",
+    "Team":"",
     "Bye":6,
     "DraftedPick":0
   },
@@ -2735,7 +2735,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"New York",
     "Last":"Giants",
     "Position":"DEF",
-    "Team":"NYG",
+    "Team":"",
     "Bye":11,
     "DraftedPick":0
   },
@@ -2744,7 +2744,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"San Diego",
     "Last":"Chargers",
     "Position":"DEF",
-    "Team":"SD",
+    "Team":"",
     "Bye":10,
     "DraftedPick":0
   },
@@ -2753,7 +2753,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Jacksonville",
     "Last":"Jaguars",
     "Position":"DEF",
-    "Team":"JAC",
+    "Team":"",
     "Bye":8,
     "DraftedPick":0
   },
@@ -2762,7 +2762,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Tampa Bay",
     "Last":"Buccaneers",
     "Position":"DEF",
-    "Team":"TB",
+    "Team":"",
     "Bye":6,
     "DraftedPick":0
   },
@@ -2771,7 +2771,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Tennessee",
     "Last":"Titans",
     "Position":"DEF",
-    "Team":"TEN",
+    "Team":"",
     "Bye":4,
     "DraftedPick":0
   },
@@ -2789,7 +2789,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Atlanta",
     "Last":"Falcons",
     "Position":"DEF",
-    "Team":"ATL",
+    "Team":"",
     "Bye":10,
     "DraftedPick":0
   },
@@ -2798,7 +2798,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "First":"Chicago",
     "Last":"Bears",
     "Position":"DEF",
-    "Team":"CHI",
+    "Team":"",
     "Bye":7,
     "DraftedPick":0
   },
