@@ -3,7 +3,7 @@ angular.module('DraftBoard').directive('draftPlayer', function(){
 
         restrict: 'E',
         templateUrl: 'templates/draftPlayer.html'
-        }
+        };
 });
 
 

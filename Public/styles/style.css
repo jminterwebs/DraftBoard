@@ -90,11 +90,11 @@ width: 50%;
 }
 
 .col-team ul li{
-    font-size: 13pt;
+    font-size: 18pt;
     font-weight: bold;
-    background-color: chocolate;
+    line-height: 105%;
     padding-left: 5%;
-    border-left: solid red 10px;
+
 
 }
 
@@ -152,7 +152,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 15%, 100%;
-    color: rgb((26,26,26));
+    color: rgb(26,26,26);
 }
 
 .WR
@@ -169,7 +169,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 20%, 100%;
-    color: rgb((26,26,26));
+    color: rgb(26,26,26);
 }
 
 .TE
@@ -186,7 +186,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 15%, 100%;
-    color: rgb((26,26,26));
+    color: rgb(26,26,26);
 
 }
 
@@ -204,7 +204,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 17%, 100%;
-    color: rgb((26,26,26));
+    color: rgb(26,26,26);
 
 }
 
