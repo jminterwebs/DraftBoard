@@ -12,49 +12,9 @@
     <body ng-controller="DraftlistController">
 
 
-    <div class="selection">
-        <div class="selectionlist">
-        <form class="form-inline search-width">
-        <input class="search form-control" type="text" ng-model="nameSearch.name">
-            <select class="form-control form-inline" ng-model="nameSearch.position">
-                <option value="All">All</option>
-                <option value="QB">QB</option>
-                <option value="RB">RB</option>
-                <option value="WR">WR</option>
-                <option value="TE">TE</option>
-                <option value="DEF">DEF</option>
-                <option value="K">K</option>
-            </select>
+        <draft-player></draft-player>
 
-        </form>
-    <ul class="list">
-
-        <li  ng-repeat="list in playerlist | playersFilter:nameSearch | filter: {DraftedPick: 0} :true"
-            ng-click="PlayerSelected($event, this)"
-            class="{{list.Position}} avail">
-
-            {{list.Rank}}: {{list.Last}}, {{list.First}}
-            {{list.Team}}
-            </li>
-
-    </ul>
-
-
-
-</div>
-
-        <div class="selectedplayer">
-
-       <h1 class="player-info">Player: {{player.First}} {{player.Last}}  </h1>
-       <h1 class="player-info">Pos: {{player.Position}}</h1>
-       <h1 class="player-info">Team: {{player.Team}}</h1>
-            <h1 class="player-info">Bye: {{player.Bye}}</h1> <span class="draftbtn btn btn-success btn-lg" ng-click="selectPlayer(this)"> </span>
-
-        </div>
-
-   </div>
-
-   <div class="roundInfo">
+        <div class="roundInfo">
 
        <h1><span id="time"></span></h1>
    </div>
@@ -151,6 +111,9 @@
 
     <!-- Controllers -->
     <script src="javascript/controller/DraftlistController.js"></script>
+
+    <!-- Directives -->
+    <script src="javascript/directives/draftPlayer.js"></script>
 
     <!-- Filters -->
     <script src="javascript/filters/playerSearch.js"></script>
