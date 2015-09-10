@@ -7,21 +7,19 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
         $scope.player = player.list;
     };
 
-    $scope.nameSearch = {
-        name: '',
-        position: 'All'
-    };
 
-      var draftpick = 1,
-          draftround = 0,
-          draftTeamUp = 0,
-          draftTeam = 11;
+
+
+      var draftpick = 1, // intial draft pick number
+          draftround = 0, // on first pick will change to 1
+          draftTeamUp = 0,  // same as above
+          draftTeam = 11;  // changes to 10 on click before needed to count down.
 
     $scope.selectPlayer = function(){
 
      if($scope.player){
 
-         //  Draft round
+         //  Draft round increased darft round whenever the last digit is a 1
         if(draftpick % 10 == 1) {
          draftround ++;
         }
@@ -45,11 +43,15 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
             draftpick ++;
             $scope.player = "";
      }
+            console.log( 'draft pick ' + draftpick % 10);
 
     };
 
 
-
-
+    // Helper for filter search
+     $scope.nameSearch = {
+        name: '',
+        position: 'All'
+    };
 
 });
