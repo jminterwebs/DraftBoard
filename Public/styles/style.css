@@ -14,9 +14,8 @@ li{
 .selection{
 width: 45%;
 height: 265px;
-
 float: left;
-
+margin-bottom: .5%;
 }
 
 .selectionlist {
@@ -41,27 +40,35 @@ float: left;
 
 .selectedplayer{
 
-    background: red;
+
     float: left;
     width: 65%;
-    height: 100%;
-    padding-left: 2.5%;
+    height: 50%;
+
 
 }
 .player-info{
-
+    padding-left: 2.5%;
     font-size: 24pt;
-
-    width: 75%;
+    width: 100%;
     float: left;
 }
-.draftbtn {
+.team{
+float: left;
+width: 50%;
 
-    width: 25%;
+
+}
+
+
+.draftbtn {
+    width: 100%;
     height: 100%;
-    background-image: url(../images/draft.png);
-    background-size: cover;
-    background-position: center;
+    background: forestgreen;
+    color:darkgreen;
+    text-align: center;
+    font-size: 70pt;
+
 }
 
 
@@ -128,7 +135,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 15%, 100%;
-    color: rgb(100,100,100);
+    color: rgb(26,26,26);
 }
 
 .RB
@@ -145,7 +152,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 15%, 100%;
-    color: rgb(100,100,100);
+    color: rgb((26,26,26));
 }
 
 .WR
@@ -162,7 +169,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 20%, 100%;
-    color: rgb(100,100,100);
+    color: rgb((26,26,26));
 }
 
 .TE
@@ -179,7 +186,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 15%, 100%;
-    color: rgb(100,100,100);
+    color: rgb((26,26,26));
 
 }
 
@@ -197,7 +204,7 @@ li.avail {
     background-repeat: no-repeat;
     background-position: 95%;
     background-size: 17%, 100%;
-    color: rgb(100,100,100);
+    color: rgb((26,26,26));
 
 }
 
@@ -218,4 +225,5 @@ li.avail {
     background-size: 10%, 100%;
     color: rgb(26,16,26);
 }
+
 

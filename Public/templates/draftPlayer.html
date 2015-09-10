@@ -30,12 +30,14 @@
 
 </div>
 
-        <div class="selectedplayer">
+        <div class="selectedplayer {{player.Position}}">
 
        <h1 class="player-info">Player: {{player.First}} {{player.Last}}  </h1>
-       <h1 class="player-info">Pos: {{player.Position}}</h1>
-       <h1 class="player-info">Team: {{player.Team}}</h1>
-            <h1 class="player-info">Bye: {{player.Bye}}</h1> <span class="draftbtn btn btn-success btn-lg" ng-click="selectPlayer(this)"> </span>
+            <h1 class="player-info"><p class="team">Team: {{player.Team}}</p>  Bye: {{player.Bye}} </h1>
+        <span class="draftbtn btn btn-success btn-lg" ng-click="selectPlayer(this)">
+        DRAFT!!
+        </span>
+
 
         </div>
 
