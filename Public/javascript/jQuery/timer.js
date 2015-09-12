@@ -22,11 +22,16 @@ function startTimer(duration, display) {
     }, 1000);
 }
 
-jQuery(function ($) {
+
+  jQuery(function ($) {
     var minutethirty = 60 * 1.5,
         display = $('#time');
     $('.draftbtn').click( function(){
         startTimer(minutethirty, display);
-    })
+        console.log('time');
+
+    });
 
 });
+
+

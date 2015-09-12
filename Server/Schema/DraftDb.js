@@ -11,14 +11,15 @@ var Schema = mongoose.Schema;
       Rank:                  Number,
       DraftedRound:          Number,
       DraftedPick:           Number,
-      DraftedTeamName:       String,
       DraftedTeamPosition:   Number,
-      TeamNeeds: {      QB:  Number,
-                        RB:  Number,
-                        WR:  Number,
-                        TE:  Number,
-                        DEF: Number,
-                        K:   Number,
-                 }
-
+      DraftedTeam: {
+                    TeamName: String,
+                    TeamNeeds: {    QB:  Number,
+                                    RB:  Number,
+                                    WR:  Number,
+                                    TE:  Number,
+                                    DEF: Number,
+                                    K:   Number,
+                                 }
+                    }
   });

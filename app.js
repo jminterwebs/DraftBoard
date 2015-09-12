@@ -1141,7 +1141,7 @@ var mongoDev = 'mongodb://localhost:27017/playerlist';
     "Rank":126,
     "First":"Seattle",
     "Last":"Seahawks",
-    "Position":"",
+    "Position":"DEF",
     "Team":"",
     "Bye":9,
     "DraftedPick":0

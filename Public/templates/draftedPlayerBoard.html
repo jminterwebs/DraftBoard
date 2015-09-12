@@ -1,72 +1,14 @@
 <div class="drafted">
-            <div class="col-team">
-                <input class="search form-control" type="text">
+
+
+    <div class="col-team" ng-repeat="team in teams">
+                <input class="search form-control" type="text" ng-model="teamName">
                <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 1} :true" class="{{list.Position}}">
+
+                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: team} :true" class="{{list.Position}}">
                        {{list.Last}}, <br> {{list.First}} </li>
                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 2} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-               </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 3} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-               </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 4} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 5} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 6} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 7} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 8} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 9} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
-            <div class="col-team">
-                <input class="search form-control" type="text">
-               <ul>
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: 10} :true" class="{{list.Position}}">
-                       {{list.Last}}, <br> {{list.First}} </li>
-                </ul>
-            </div>
     </div>
+
+</div>
+

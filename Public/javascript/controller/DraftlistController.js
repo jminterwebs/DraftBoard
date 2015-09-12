@@ -1,6 +1,8 @@
 angular.module('DraftBoard').controller('DraftlistController', function(Draft, $scope){
 
+
     $scope.playerlist = Draft.query();
+    $scope.teams = [1,2,3,4,5,6,7,8,9,10];
 
     $scope.PlayerSelected = function($event, player){
 
@@ -37,13 +39,12 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
 
             $scope.player.DraftedRound = draftround;
             $scope.player.DraftedPick  = draftpick;
-            $scope.player.DraftedTeamName = "BenchWarmers";
 
         //increment the pick and clear the selection
             draftpick ++;
             $scope.player = "";
      }
-            console.log( 'draft pick ' + draftpick % 10);
+
 
     };
 
