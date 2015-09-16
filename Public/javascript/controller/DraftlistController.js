@@ -1,4 +1,10 @@
-angular.module('DraftBoard').controller('DraftlistController', function(Draft, $scope){
+angular.module('DraftBoard').controller('DraftlistController', function(Draft, Timer, $scope){
+
+       $scope.findSquare = Timer.square(5);
+
+
+
+
 
 
     $scope.playerlist = Draft.query();
@@ -18,6 +24,11 @@ angular.module('DraftBoard').controller('DraftlistController', function(Draft, $
           draftTeam = 11;  // changes to 10 on click before needed to count down.
 
     $scope.selectPlayer = function(){
+
+        $scope.timer = Timer.timer(90);
+
+        console.log($scope.findSquare);
+
 
      if($scope.player){
 
