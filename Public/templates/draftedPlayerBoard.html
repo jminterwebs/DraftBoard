@@ -5,10 +5,9 @@
                 <input class="search form-control" type="text" ng-model="teamName">
                <ul>
 
-                   <li ng-repeat= "list in playerlist | filter: {DraftedTeamPosition: team} :true" class="{{list.Position}}">
+                   <li ng-repeat= "list in playerlist |orderBy: 'DraftedPick'  | filter: {DraftedTeamPosition: team} :true" class="{{list.Position}}">
                        {{list.Last}}, <br> {{list.First}} </li>
                </ul>
     </div>
 
 </div>
-
