@@ -2,12 +2,13 @@
 
 
     <div class="col-team" ng-repeat="team in teams">
-                <input class="search form-control" type="text" ng-model="teamName">
+                <input class="search form-control" type="text" ng-model="team.name">
                <ul>
 
                    <li ng-repeat= "list in playerlist |orderBy: 'DraftedPick'  | filter: {DraftedTeamPosition: team} :true" class="{{list.Position}}">
                        {{list.Last}}, <br> {{list.First}} </li>
                </ul>
     </div>
+
 
 </div>
